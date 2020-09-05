@@ -1,12 +1,5 @@
 # Planejamento
 
-## Versionamento
-| Versão | Data | Modificação | Autor |
-|--|--|--|--|
-| 1.0 | 02/09/2020 | Criação documento de planejamento | Todos os integrantes |
-
-<br />
-
 ## 1. Introdução
 
 <p align="justify">
@@ -76,3 +69,11 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 ## 6. Referências Bibliográficas
 
 >Integrando XP as principais metodologias ágeis, disponível em: https://www.devmedia.com.br/integrando-xp-as-principais-metodologias-ageis/30989
+
+<br />
+
+## Versionamento
+| Versão | Data | Modificação | Autor |
+|--|--|--|--|
+| 1.0 | 02/09/2020 | Criação documento de planejamento | Todos os integrantes |
+| 1.1 | 02/09/2020 | Pequenas alterações gerais no documento | Thiago Lopes |
