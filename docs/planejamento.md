@@ -41,11 +41,11 @@
 &nbsp;&nbsp;A tabela abaixo representa os horários disponiveis do integrantes do grupo, com intuito de gerenciar pareamentos e reuniões presenciais ou por videoconferência (utilizando o Google Hangouts)
 </p>
 
-<div align="center" style="display: flex; margin: 30px auto"> 
-  <img width="600px"  src="../assets/tabela_horarios/tabela_horarios.jpg">
-  <div style="margin-left: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center">
-    <img width="200px"  src="../assets/tabela_horarios/tabela_horarios_legenda1.jpg">
-    <img width="200px"  src="../assets/tabela_horarios/tabela_horarios_legenda2.jpg" style="margin-top: 5px">
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img width="600px" src="../assets/tabela_horarios/tabela_horarios.jpg">
+  <div style="width: 600px; margin-top: 10px; display: flex; justify-content: center; align-items: center">
+    <img width="200px" src="../assets/tabela_horarios/tabela_horarios_legenda1.jpg">
+    <img width="200px" src="../assets/tabela_horarios/tabela_horarios_legenda2.jpg" style="margin-left: 10px">
   </div>
 </div>
 
@@ -77,3 +77,4 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 |--|--|--|--|
 | 1.0 | 02/09/2020 | Criação documento de planejamento | Todos os integrantes |
 | 1.1 | 02/09/2020 | Pequenas alterações gerais no documento | Thiago Lopes |
+| 1.2 | 13/09/2020 | Correção no estilo da tabela de horários | Igor e Marcelo |
