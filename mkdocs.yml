@@ -2,3 +2,8 @@ site_name: Promobit
 
 theme:
     name: material
+    language: 'pt'
+    logo: 'assets/icons/monetization_on.png'
+
+extra_css:
+    - stylesheets/extra.css
