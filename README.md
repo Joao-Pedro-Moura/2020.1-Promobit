@@ -1,7 +1,7 @@
 # Sobre
 
 <div align="center">
-  <img src= "assets/logos/Promobit.png"/>
+  <img src= "docs/assets/logos/Promobit.png"/>
 </div>
 <br />
 
@@ -13,8 +13,8 @@ Este repositório é destinado ao grupo 4 - [**Promobit**](https://www.promobit.
 
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
-| ![Igor](assets/integrantes/Igor.png) | 18/0018728|Igor Paiva|igor-paiva|igorbatistapaiva@outlook.com|
-| ![Marcelo](assets/integrantes/Marcelo.png) | 18/0054082| Marcelo Victor| marcelog5| marcelovictorg2@gmail.com
-| ![Rhuan](assets/integrantes/Rhuan.png) | 18/0054848 | Rhuan Carlos | Rhuancpq| rhuancarlos.queiroz@gmail.com
-| ![Thiago G](assets/integrantes/ThiagoG.png) | 18/0028308 | Thiago Guilherme | ThiagoGMF | thiago.guilherm20@gmail.com
-| ![Thiago L](assets/integrantes/ThiagoL.png) | 18/0028260| Thiago Lopes| thiagolopess| thiago.lopes.santos.tls@gmail.com
+| ![Igor](docs/assets/integrantes/Igor.png) | 18/0018728|Igor Paiva|[igor-paiva](https://github.com/igor-paiva)|igorbatistapaiva@outlook.com|
+| ![Marcelo](docs/assets/integrantes/Marcelo.png) | 18/0054082| Marcelo Victor| [marcelog5](https://github.com/marcelog5)| marcelovictorg2@gmail.com
+| ![Rhuan](docs/assets/integrantes/Rhuan.png) | 18/0054848 | Rhuan Carlos | [Rhuancpq](https://github.com/Rhuancpq)| rhuancarlos.queiroz@gmail.com
+| ![Thiago G](docs/assets/integrantes/ThiagoG.png) | 18/0028308 | Thiago Guilherme | [ThiagoGMF](https://github.com/ThiagoGMF) | thiago.guilherm20@gmail.com
+| ![Thiago L](docs/assets/integrantes/ThiagoL.png) | 18/0028260| Thiago Lopes| [thiagolopess](https://github.com/thiagolopess)| thiago.lopes.santos.tls@gmail.com
