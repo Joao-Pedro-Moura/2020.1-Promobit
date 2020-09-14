@@ -7,3 +7,9 @@ theme:
 
 extra_css:
     - stylesheets/extra.css
+
+pages:
+    - Sobre: index.md
+    - Planejamento: planejamento.md
+    - Pré-rastreabilidade:
+        - Rich pictures: pre_rastreabilidade/rich_pictures.md
