@@ -1,15 +1,16 @@
 site_name: Promobit
 
 theme:
-    name: material
-    language: 'pt'
-    logo: 'assets/icons/monetization_on.png'
+  name: material
+  language: 'pt'
+  logo: 'assets/icons/monetization_on.png'
 
 extra_css:
-    - stylesheets/extra.css
+  - stylesheets/extra.css
 
 pages:
-    - Sobre: index.md
-    - Planejamento: planejamento.md
-    - Pré-rastreabilidade:
-        - Rich pictures: pre_rastreabilidade/rich_pictures.md
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+  - Pré-rastreabilidade:
+      - Rich pictures: pre_rastreabilidade/rich_pictures.md
+  - Apresentações: apresentacoes.md
