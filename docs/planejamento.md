@@ -62,7 +62,7 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 | ![GitHub_logo](../assets/logos/GitHub.png) | [GitHub](https://github.com) | Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
 | ![Lucidchart_logo](../assets/logos/Lucidchart.png) | [Lucidchart](www.lucidchart.com) | Ferramenta CASE |
 | ![Office_365_logo](../assets/logos/Office365.png) | [Office 365](www.office.com) | Versão online do Microsoft Office 365 |
-| ![Overleaf_logo](../assets/logos/Overleaf.png) | [Google Docs](https://docs.google.com) | Ferramenta para criação de documentos |
+| ![Overleaf_logo](../assets/logos/Overleaf.png) | [Overleaf](https://docs.google.com) | Ferramenta para criação de documentos |
 | ![Telegram_logo](../assets/logos/Telegram.png) | [Telegram](https://web.telegram.org) | Ferramenta de comunicação rápida entre os integrantes |
 | ![ZenHub_logo](../assets/logos/ZenHub.png) | [ZenHub](https://www.zenhub.com) | Subsistema no GitHub que permite gestão ágil do projeto/grupo com interface KanBan |
 
