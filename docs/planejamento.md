@@ -58,9 +58,11 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 |:--:|:--:|:--:|
 | ![promobit_logo](../assets/logos/Promobit.png) | [Promobit](https://www.promobit.com.br/) | O Promobit reúne oportunidades de compras com desconto com participação ativa dos usuários |
 | ![Discord_logo](../assets/logos/Discord.png) | [Discord](https://discordapp.com) | Plataforma de comunicação para chamadas de áudio e vídeo |
+| ![Docs_logo](../assets/logos/Docs.png) | [Google Docs](https://docs.google.com) | Ferramenta para criação de documentos |
 | ![GitHub_logo](../assets/logos/GitHub.png) | [GitHub](https://github.com) | Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
-| ![Lucidchart](../assets/logos/Lucidchart.png) | [Lucidchart](www.lucidchart.com) | Ferramenta CASE |
-| ![Office_365](../assets/logos/Office365.png) | [Office 365](www.office.com) | Versão online do Microsoft Office 365 |
+| ![Lucidchart_logo](../assets/logos/Lucidchart.png) | [Lucidchart](www.lucidchart.com) | Ferramenta CASE |
+| ![Office_365_logo](../assets/logos/Office365.png) | [Office 365](www.office.com) | Versão online do Microsoft Office 365 |
+| ![Overleaf_logo](../assets/logos/Overleaf.png) | [Google Docs](https://docs.google.com) | Ferramenta para criação de documentos |
 | ![Telegram_logo](../assets/logos/Telegram.png) | [Telegram](https://web.telegram.org) | Ferramenta de comunicação rápida entre os integrantes |
 | ![ZenHub_logo](../assets/logos/ZenHub.png) | [ZenHub](https://www.zenhub.com) | Subsistema no GitHub que permite gestão ágil do projeto/grupo com interface KanBan |
 
@@ -77,4 +79,4 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 |--|--|--|--|
 | 1.0 | 02/09/2020 | Criação documento de planejamento | Todos os integrantes |
 | 1.1 | 02/09/2020 | Pequenas alterações gerais no documento | Thiago Lopes |
-| 1.2 | 13/09/2020 | Correção no estilo da tabela de horários | Igor e Marcelo |
+| 1.1.1 | 16/02/2020 | Adição de ferramentas utilizadas | Thiago Lopes |
