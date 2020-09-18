@@ -9,8 +9,11 @@ extra_css:
   - stylesheets/extra.css
 
 pages:
-  - Sobre: index.md
-  - Planejamento: planejamento.md
-  - Pré-rastreabilidade:
-      - Rich pictures: pre_rastreabilidade/rich_pictures.md
-  - Apresentações: apresentacoes.md
+    - Sobre: index.md
+    - Planejamento: planejamento.md
+    - Pré-rastreabilidade:
+        - Rich pictures: pre_rastreabilidade/rich_pictures.md
+    - Apresentações: apresentacoes.md
+    # sempre a última
+    - Atas:
+        - 13/09/2020: atas/reuniao-13-09-2020.md
