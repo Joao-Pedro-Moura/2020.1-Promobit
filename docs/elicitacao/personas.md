@@ -53,9 +53,27 @@
 
 ## Persona 3
 
+| Persona | Rafael Azevedo Martins |
+|--|--|
+| Status: | Antiusuário |
+| Nome: | Rafael Azevedo Martins |
+| Foto: | <img src="../../assets/personas/Rafael.jpg" alt="Rafael" style="width:130px;"/> |
+| Idade: | 57 anos |
+| Profissão: | Professor universitário |
+| Escolaridade: | Mestrado |
+| Objetivos: | Realizar um doutorado em economia, se tornar o melhor profissional do pais, se tornar influente na economia brasilieira |
+| Habilidades: | Economia internacional e agroindustrial, toca piano, le livros ao contrário |
+| Relacionamentos: | Solteiro, tentando encontrar sua alma gêmea |
+| Requisitos: | Em toda pesquisa que ele participa tende a dar sua opinião ao máximo |
+| Tarefas: | Durante seu dia passa a maior parte do seu tempo se dedicando a rede socias para se tornar mais visado dentro de sua área, sai a noite para eventos sociais em busca de novas relações socias |
+| Expectativas: | Gosta de fazer compras em loja fisico, não confia em comprar online pois tem medo de sofrer algum golpe, tenta evitar comprar o máximo possível para economizar dinheiro |
+
+
+<br /><br />
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 16/09/2020 | Criação da estrutura base do documento de personas | Rhuan Carlos e Marcelo Victor |
-| 2.0 | 16/09/2020 | Criação da 1ª e 2ª personas, Vitor Gonçalves e Kelly Takashi | Rhuan Carlos e Thiago Guilherme |
+| 2.0 | 19/09/2020 | Criação da 1ª e 2ª personas, Vitor Gonçalves e Kelly Takashi | Rhuan Carlos e Thiago Guilherme |
+| 3.0 | 19/09/2020 | Criação da 3ª persona, Rafael Azevedo | Marcelo Victor |
