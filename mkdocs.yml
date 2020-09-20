@@ -13,12 +13,12 @@ pages:
   - Planejamento: planejamento.md
   - Pré-rastreabilidade:
       - Rich pictures: pre_rastreabilidade/rich_pictures.md
-  - Elicitação:
+  - Elicitação de requisitos:
       - Personas: elicitacao/personas.md
       - Introspecção: elicitacao/introspeccao.md
-      - Brainstorming: elicitacao/brainstorming.md
+      - Questionário: elicitacao/questionario.md
   - Apresentações: apresentacoes.md
+  # sempre a última
   - Atas:
       - 13/09/2020: atas/reuniao-13-09-2020.md
       - 21/09/2020: atas/reuniao-21-09-2020.md
-
