@@ -15,6 +15,7 @@ pages:
       - Rich pictures: pre_rastreabilidade/rich_pictures.md
   - Elicitação:
       - Personas: elicitacao/personas.md
+      - Introspecção: elicitacao/introspeccao.md
   - Apresentações: apresentacoes.md
   - Atas:
         - 13/09/2020: atas/reuniao-13-09-2020.md
