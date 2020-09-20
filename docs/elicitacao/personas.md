@@ -62,7 +62,7 @@
 | Profissão: | Professor universitário |
 | Escolaridade: | Mestrado |
 | Objetivos: | Realizar um doutorado em economia, se tornar o melhor profissional do pais, se tornar influente na economia brasilieira |
-| Habilidades: | Economia internacional e agroindustrial, toca piano, le livros ao contrário |
+| Habilidades: | Economia internacional e agroindustrial, toca piano, lê livros ao contrário |
 | Relacionamentos: | Solteiro, tentando encontrar sua alma gêmea |
 | Requisitos: | Em toda pesquisa que ele participa tende a dar sua opinião ao máximo |
 | Tarefas: | Durante seu dia passa a maior parte do seu tempo se dedicando a rede socias para se tornar mais visado dentro de sua área, sai a noite para eventos sociais em busca de novas relações socias |
@@ -77,3 +77,4 @@
 | 1.0 | 16/09/2020 | Criação da estrutura base do documento de personas | Rhuan Carlos e Marcelo Victor |
 | 2.0 | 19/09/2020 | Criação da 1ª e 2ª personas, Vitor Gonçalves e Kelly Takashi | Rhuan Carlos e Thiago Guilherme |
 | 3.0 | 19/09/2020 | Criação da 3ª persona, Rafael Azevedo | Marcelo Victor |
+| 3.1 | 20/09/2020 | Correções gerais | Marcelo Victor e Rhuan Carlos |
