@@ -46,7 +46,7 @@ Os resultados obtidos com o questionários são listados abaixo
 ## Referências
 
 >VAZQUEZ, Carlos; SIVÕES, Guilherme. "Engenharia de Requisitos"
-<br />
+
 >WIEGERS, Karl; BEATTY, Joy. "Software Requirements"
 
 ## Versionamento
