@@ -35,13 +35,32 @@ Com a resposta dessas questões em mente e seguindo as dicas para criação de u
 Os resultados obtidos com o questionários são listados abaixo
 </p>
 
-<!-- RESULTADOS SERÃO COLOCADOS AQUI, ASSIM QUE DISPONÍVEIS -->
+<img width="600px" src="../../assets/resultados_questionario/1.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/2.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/3.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/4.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/5.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/6.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/7.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/8.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/9.png" style="margin-bottom: 15px">
+<img width="600px" src="../../assets/resultados_questionario/10.png">
 
 ## Requisitos elicitados
 
 |Número | Requisito | Tipo |
-|--|--|--|
-| 1 | REQUISITO | Funcional ou Não funcional |
+|:--:|--|:--:|
+| 1 | Validação de ofertas e cupons sugeridos | Funcional |
+| 2 | Possuir um fórum interativo para os usuários | Funcional |
+| 3 | Criar uma lista de desejos | Funcional |
+| 4 | Visualizar avaliação de outros usuários | Funcional |
+| 5 | Avaliar produtos e ofertas cadastrados | Funcional |
+| 6 | Filtrar cupons por lojas | Funcional |
+| 7 | Possuir um sistema de gamificação | Não funcional |
+| 8 | A oferta deverá ser de uma loja confiável | Não funcional |
+| 9 | Parceria com lojas confiáveis | Não funcional |
+| 10 | A interface deverá ter boa usabilidade | Não funcional |
+
 
 ## Referências
 
@@ -53,3 +72,4 @@ Os resultados obtidos com o questionários são listados abaixo
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 0.1 | 20/09/2020 | Criação do documento | Igor Paiva e Thiago Lopes |
+| 1.0 | 23/09/2020 | Adição dos resultados e requisitos elicitados | Igor Paiva e Thiago Lopes |
