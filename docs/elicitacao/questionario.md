@@ -35,15 +35,34 @@ Com a resposta dessas questões em mente e seguindo as dicas para criação de u
 Os resultados obtidos com o questionários são listados abaixo
 </p>
 
-<img width="600px" src="../../assets/resultados_questionario/1.png" style="margin-bottom: 15px">
-<img width="600px" src="../../assets/resultados_questionario/2.png" style="margin-bottom: 15px">
-<img width="600px" src="../../assets/resultados_questionario/3.png" style="margin-bottom: 15px">
-<img width="600px" src="../../assets/resultados_questionario/4.png" style="margin-bottom: 15px">
-<img width="600px" src="../../assets/resultados_questionario/5.png" style="margin-bottom: 15px">
-<img width="600px" src="../../assets/resultados_questionario/6.png" style="margin-bottom: 15px">
-<img width="600px" src="../../assets/resultados_questionario/7.png" style="margin-bottom: 15px">
-<img width="600px" src="../../assets/resultados_questionario/8.png" style="margin-bottom: 15px">
-<img width="600px" src="../../assets/resultados_questionario/9.png" style="margin-bottom: 15px">
+### Questão 1
+<img width="600px" src="../../assets/resultados_questionario/1.png">
+
+### Questão 2
+<img width="600px" src="../../assets/resultados_questionario/2.png">
+
+### Questão 3
+<img width="600px" src="../../assets/resultados_questionario/3.png">
+
+### Questão 4
+<img width="600px" src="../../assets/resultados_questionario/4.png">
+
+### Questão 5
+<img width="600px" src="../../assets/resultados_questionario/5.png">
+
+### Questão 6
+<img width="600px" src="../../assets/resultados_questionario/6.png">
+
+### Questão 7
+<img width="600px" src="../../assets/resultados_questionario/7.png">
+
+### Questão 8
+<img width="600px" src="../../assets/resultados_questionario/8.png">
+
+### Questão 9
+<img width="600px" src="../../assets/resultados_questionario/9.png">
+
+### Questão 10
 <img width="600px" src="../../assets/resultados_questionario/10.png">
 
 ## Requisitos elicitados
