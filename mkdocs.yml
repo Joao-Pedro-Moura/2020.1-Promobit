@@ -17,6 +17,9 @@ pages:
       - Personas: elicitacao/personas.md
       - Introspecção: elicitacao/introspeccao.md
       - Questionário: elicitacao/questionario.md
+      - Brainstorming: elicitacao/brainstorming.md
+  - Priorização:
+      - "First Things First": priorizacao.md
   - Apresentações: apresentacoes.md
   # sempre a última
   - Atas:
