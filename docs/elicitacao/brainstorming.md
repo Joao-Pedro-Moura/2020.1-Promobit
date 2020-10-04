@@ -93,7 +93,22 @@
 |14| O sistema deverá iniciar rapidamente |
 |15| O sistema deverá fornecer modo alto contraste |
 
-## 4. Referências Bibliográficas
+## 4. 2ª sessão de brainstorming
+
+<p style="text-indent: 20px; text-align: justify">
+  Foi realizada uma segunda sessão de <i>brainstorming</i> para tentar prospectar novos requisitos.
+</p>
+
+### 4.1 Requisitos funcionais
+
+| Número | Requisito |
+|:--:|--|
+|1| Visualizar todos os cupons |
+|2| Usuário poderá editar seu perfil |
+|3| Adicionar CEP |
+|4| Alterar CEP |
+
+## 5. Referências Bibliográficas
 
 >BARBOSA. Simone. SILVA. Bruno. 2010. Interação Humano-computador.
 
@@ -101,3 +116,4 @@
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 21/09/2020 | Criação do documento de brainstorming | Todos os integrantes |
+| 2.0 | 03/10/2020 | Realização da segunda sessão de brainstorming | Todos os integrantes |
