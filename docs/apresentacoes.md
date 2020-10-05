@@ -2,9 +2,8 @@
 
 ## 1ª Apresentação - Planejamento
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S7FheCUsLVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pUjCC19HF8g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 2ª Apresentação - Elicitação & Priorização
 
-## 2ª Apresentação - Elicitação e Priorização
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NSzGEyUy240" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTuDmt0uc40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
