@@ -20,7 +20,8 @@ pages:
       - Brainstorming: elicitacao/brainstorming.md
       - Todos os requisitos: elicitacao/requisitos.md
   - Priorização de requisitos:
-      - "First Things First": priorizacao.md
+      - First Things First: priorizacao/first_thing_first.md
+      - MoSCoW: priorizacao/moscow.md
   - Modelagem:
       - Casos de uso: modelagem/caso_de_uso.md
       - Cenários: modelagem/cenarios.md
