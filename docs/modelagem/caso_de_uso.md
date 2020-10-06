@@ -33,12 +33,26 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 |          Ator(es)      | Usuário |
 |   Pré-condições        | O ator deve estar logado, deve estar na seção de "últimos cupons" e "cupons por loja" do sistema e deve ter o link e as informações de um cupom |
 |    Fluxo principal     | **FP01:**<br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema redireciona o ator para a seção de sugerir um novo cupom <br /> 5. O ator preenche os campos de "Link da cupom", "Descreva o cupom", "Loja", "Código do cupom", "Regras de aplicação" <br /> 7. O ator clica no botão "Enviar cupom" <br /> 8. O sistema gera um pop-up para o autor com o feedback do envio <br /> 9. O ator clica em fechar <br /> 10. O ator é redirecionado para a aba de cupons. |
-| Fluxo alternativo      | **FA01:** Fluxo de quando o ator deseja sugerir um cupom seguido de um anterior <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema redireciona o ator para a seção de sugerir um novo cupom <br /> 5. O ator preenche os campos de "Link da cupom", "Descreva o cupom", "Loja", "Código do cupom", "Regras de aplicação" <br /> 7. O ator clica no botão "Enviar cupom" <br /> 8. O sistema gera um pop-up para o autor com o feedback do envio <br /> 9. O ator clica em "Adicionar outra" <br> <br /> 10. O ator é redirecionado para a aba de cupons. |
+| Fluxo alternativo      | **FA01:** Fluxo de quando o ator deseja sugerir um cupom seguido de um anterior <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema redireciona o ator para a seção de sugerir um novo cupom <br /> 5. O ator preenche os campos de "Link da cupom", "Descreva o cupom", "Loja", "Código do cupom", "Regras de aplicação" <br /> 7. O ator clica no botão "Enviar cupom" <br /> 8. O sistema gera um pop-up para o autor com o feedback do envio <br /> 9. O ator clica em "Adicionar outra" <br /> <br /> 10. O ator é redirecionado para a aba de cupons. |
 |   Fluxo de exceções    | **FE01:** O ator não completa os campos obrigatórios para sugerir o cupom <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema redireciona o ator para a seção de sugerir um novo cupom <br /> 5. O ator preenche os campos de "Link da cupom", "Descreva o cupom", "Loja", "Código do cupom", "Regras de aplicação" <br /> 7. O ator clica no botão "Enviar cupom" <br /> 8. O sistema gera um pop-up alertando o ator sobre a necessidade de preencher o campo obrigatório <br /><br /> **FE02:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema gera um pop-up alertando sobre a impossibilidade de realizar a ação <br /> 5. O ator clica no botão "ok" |
 |     Pós condições      | O ator poderá ter um cupom publicado, caso esse seja válido, e o ator terá o cupom que sugeriu no seu histórico de cupons |
 |    Rastreabilidade     | Requisito Funcional 4 do documento contendo todos os requisitos - RF4 Sugerir cupom |
 
-#### UC03: Fazer tópico no forum
+#### UC03: Sugerir tópico no forum
+![Pesquisar oferta](../assets/casos_de_uso/sugerir_topico_forum.png)
+
+<a target="_blank" href="https://drive.google.com/file/d/1-XXfg-auieUWLq4-1gGUXKMaHHq1MWju/view?usp=sharing">Link para o diagrama acima</a>
+
+|         UC03           |                                           Informações                                           |
+| :--------------------: | -------------------------------------------------------------------------------------------- |
+|       Descrição        | O ato do usuário sugerir uma oferta que poderá ser publica no sistema |
+|       Ator(es)         | Usuário, moderador |
+|      Pré-condições     | O ator deve estar logado, e deve estar na seção de fórum do sistema. |
+|    Fluxo principal     | **FP01:** <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema redireciona o ator para a seção de novo tópico no fórum <br /> 3. O ator preenche os campos de "Título do fórum", "Categoria do fórum" e "Descrição do tópico" <br /> 4. O ator clica no botão "Enviar tópico" <br /> 5. O sistema gera um pop-up para o autor com o feedback do envio <br /> 6. O ator clica em fechar <br /> 7. O ator é redirecionado para a aba de fórum. |
+| Fluxo alternativo      | **FA01:** 1. O ator clica no icone de "+" <br /> 2. O sistema redireciona o ator para a seção de novo tópico no fórum <br /> 3. O ator preenche os campos de "Título do fórum", "Categoria do fórum" e "Descrição do tópico" <br /> 4. O ator clica no botão "Enviar tópico" <br /> 5. O sistema gera um pop-up para o autor com o feedback do envio <br /> 6. O ator clica em "Adicionar outra" <br /> 7. O ator é redirecionado para a aba de sugerir oferta.|
+|   Fluxo de exceções    | **FE01:** <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema redireciona o ator para a seção de novo tópico no fórum <br /> 3. O ator não preenche um dos campos de "Título do fórum", "Categoria do fórum" ou "Descrição do tópico" <br /> 4. O ator clica no botão "Enviar tópico" <br /> 5. O sistema alerta o autor sobre a necessidade de inserção de informações do campo obrigatório não preenchido. <br /><br /> **FE02:** <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema redireciona o ator para a seção de novo tópico no fórum <br /> 3. O ator não preenche um dos campos de "Título do fórum", "Categoria do fórum" ou "Descrição do tópico" <br /> 4. O ator clica no botão "Enviar tópico" <br /> 4. O sistema gera um pop-up alertando sobre a impossíbilidade de realizar a ação <br /> 5. O ator clica no botão "ok" |
+|     Pós condições      | O ator poderá ter um tópico publicado no fórum caso ele seja aprovado e o ator terá o tópico sugerido em seu histórico de tópicos no fórum |
+|    Rastreabilidade     | Requisito Funcional 10 do documento contendo todos os requisitos - RF10 Cadastrar tópico no fórum |
 
 #### UC04: Configurações
 |         UC04           | Informações |
@@ -84,4 +98,5 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | 4.0 | 06/10/2020 | Adição da tabela de caso de uso configurações | Rhuan Carlos |
 | 5.0 | 06/10/2020 | Adição caso de uso de sugerir cupom | Igor Paiva |
 | 5.0.1 | 06/10/2020 | Correções leves | Rhuan Carlos |
-| 5.1.0 | 06/10/2020 | Adição do diagrama de caso de uso 5 | Rhuan Carlos |
+| 5.1.0 | 06/10/2020 | Adição do diagrama de caso de uso 4 | Rhuan Carlos |
+| 6.0.0 | 06/10/2020 | Adição do caso de uso de sugerir tópico no fórum | Thiago Lopes |
