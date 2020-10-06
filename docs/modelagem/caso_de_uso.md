@@ -84,4 +84,4 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | 4.0 | 06/10/2020 | Adição da tabela de caso de uso configurações | Rhuan Carlos |
 | 5.0 | 06/10/2020 | Adição caso de uso de sugerir cupom | Igor Paiva |
 | 5.0.1 | 06/10/2020 | Correções leves | Rhuan Carlos |
-| 5.1.0 | 06/10/2020 | Adição do diagrama de caso de uso 4 | Rhuan Carlos |
+| 5.1.0 | 06/10/2020 | Adição do diagrama de caso de uso 5 | Rhuan Carlos |
