@@ -28,6 +28,16 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 #### UC04: Configurações
 
 #### UC05: Pesquisar oferta
+|         UC05           | Informações |
+| :---------: |----------- |
+|       Descrição        | O ato do usuário pesquisar uma oferta no promobit |
+|          Ator(es)      | Usuário |
+|   Pré-condições        | O ator deve estar logado, deve estar na seção de ofertas do promobit além de saber o que procura |
+|    Fluxo principal     | **FP01:**<br /> 1. O ator clica no icone de :mag: <br /> 2. O promobit expõe uma tabela de busca com algumas buscas recentes <br /> 3. O ator clica na caixa de pesquisa <br /> 4. O ator digita a oferta que procura <br /> 5. O promobit lista as ofertas que correspondem à busca|
+| Fluxo alternativo      | **FA01:** Fluxo de quando o ator pesquisou recentemente um produto:<br /> 1. O ator clica no icone de :mag: <br /> 2. O ator clica no nome do produto buscado recentemente <br /> 3. O promobit lista as ofertas que correspondem à busca <br /> <br /> **FA02:** Fluxo de quando o ator prefere buscar um produto dentre os mais buscados:<br /> 1. O ator clica no icone de :mag: <br /> 2. O ator clica no nome do produto listado na seção "Produtos mais buscados" <br /> 3. O promobit lista as ofertas que correspondem à busca|
+|   Fluxo de exceções    | **FE02:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de :mag: <br /> 2. O promobit expõe uma tabela de busca com algumas buscas recentes <br /> 3. O ator clica na caixa de pesquisa <br /> 4. O ator digita a oferta que procura <br /> 5. O promobit não lista as ofertas que correspondem à busca |
+|     Pós condições      | O ator poderá ter encontrado uma oferta publicada e do produto desejado |
+|    Rastreabilidade     | Requisito Funcional 7 do documento contendo todos os requisitos - RF7 Pesquisar oferta |
 
 
 ## Referências Bibliográficas
@@ -40,3 +50,4 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | 1.0 | 04/10/2020 | Criação da estrutura do documento de caso de uso | Marcelo Victor |
 | 2.0 | 04/10/2020 | Adição do caso de uso de sugerir oferta | Marcelo Victor |
 | 2.1 | 06/10/2020 | Correção tags HTML | Igor Paiva |
+| 3.0 | 06/10/2020 | Adição do caso de uso de pesquisar oferta | Rhuan Carlos |
