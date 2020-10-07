@@ -465,4 +465,5 @@ Usaremos a tabela abaixo como molde para descrever os cenários.
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 06/10/2020 | Criação do documento de cenários e criação do C01 | Marcelo Victor e Rhuan Carlos  |
-| 2.0 | 07/10/2020 | Adição dos cenários C02 até o cenário C34 | Todos os integrantes |
+| 2.0 | 07/10/2020 | Adição dos cenários C02 até o cenário C33 | Todos os integrantes |
+| 2.0.1 | 07/10/2020 | Correção do versionamento 2.0 | Thiago Guilherme |
