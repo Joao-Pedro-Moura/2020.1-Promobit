@@ -24,6 +24,7 @@ pages:
   - Modelagem:
       - Casos de uso: modelagem/caso_de_uso.md
       - Cenários: modelagem/cenarios.md
+      - Léxico: modelagem/lexico.md
   - Apresentações: apresentacoes.md
   # sempre a última
   - Atas:
