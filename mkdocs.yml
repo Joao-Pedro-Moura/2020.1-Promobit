@@ -22,11 +22,8 @@ pages:
   - Priorização de requisitos:
       - "First Things First": priorizacao.md
   - Modelagem:
-<<<<<<< HEAD
       - Casos de uso: modelagem/caso_de_uso.md
-=======
       - Cenários: modelagem/cenarios.md
->>>>>>> Adição do documento base de cenários
   - Apresentações: apresentacoes.md
   # sempre a última
   - Atas:
