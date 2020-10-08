@@ -23,6 +23,7 @@ pages:
       - "First Things First": priorizacao.md
   - Modelagem:
       - Casos de uso: modelagem/caso_de_uso.md
+      - Cenários: modelagem/cenarios.md
   - Apresentações: apresentacoes.md
   # sempre a última
   - Atas:
