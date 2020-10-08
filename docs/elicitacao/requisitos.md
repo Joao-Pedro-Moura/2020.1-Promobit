@@ -5,7 +5,7 @@
 Nós decidimos utilizar a seguinte notação para a identificação dos requisitos:
 
 - **RF** *NÚMERO*: para os requisitos funcionais. Exemplo: RF3
-- **RF** *NÚMERO*: para os requisitos não funcionais. Exemplo: RFN42
+- **RNF** *NÚMERO*: para os requisitos não funcionais. Exemplo: RNF42
 
 
 ## Requisitos funcionais
