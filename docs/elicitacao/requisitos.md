@@ -27,8 +27,8 @@ Nós decidimos utilizar a seguinte notação para a identificação dos requisit
 |RF13| Compartilhar ofertas | Brainstorm e Introspecção |
 |RF14| Favoritar cupom | Brainstorm e Introspecção |
 |RF15| Enviar alerta de oferta | Brainstorm |
-|RF16| Adicionar um usuário | Brainstorm |
-|RF17| Remover um usuário | Brainstorm |
+|RF16| Seguir um usuário | Brainstorm |
+|RF17| Deixar de seguir um usuário | Brainstorm |
 |RF18| Bloquear um usuário | Brainstorm |
 |RF19| Priorizar as ofertas a serem exibidas | Brainstorm |
 |RF20| Curtir uma oferta | Brainstorm |
@@ -55,7 +55,7 @@ Nós decidimos utilizar a seguinte notação para a identificação dos requisit
 |RF41| Visualizar tópicos do fórum de um usuário  | Brainstorm |
 |RF42| Visualizar quem um usuário segue | Brainstorm |
 |RF43| Visualizar seguidores de um usuário | Brainstorm |
-|RF44| Visualizar medalhas de usuário | Brainstorm |
+|RF44| O usuário poderá editar seu perfil | Brainstorm |
 |RF45| Visualizar mensagens recebidas | Brainstorm |
 |RF46| Alterar própria senha | Brainstorm |
 |RF47| Adicionar foto de perfil | Brainstorm |
@@ -67,7 +67,6 @@ Nós decidimos utilizar a seguinte notação para a identificação dos requisit
 |RF53| Avaliar produtos e ofertas cadastrados | Questionário |
 |RF54| Visualizar todas as ofertas | Introspecção |
 |RF55| Visualizar todos os cupons | Introspecção |
-|RF56| O usuário poderá editar seu perfil | Brainstorm |
 
 ## Requisitos não funcionais
 
@@ -96,3 +95,4 @@ Nós decidimos utilizar a seguinte notação para a identificação dos requisit
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 03/10/2020 | Listagem dos requisitos elicitados | Todos os integrantes |
+| 1.1 | 06/10/2020 | Correção de alguns requisitos | Igor Paiva, Marcelo Victor, Rhuan Carlos e Thiago Lopes |
