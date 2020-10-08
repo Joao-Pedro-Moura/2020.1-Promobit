@@ -9,7 +9,7 @@
 
 ## 2. Cronogramas
 
-&nbsp;&nbsp;Tendo em vista os prazos estipulados pela disciplina, a equipe organizou um planejamento inicial de modo a atender às exigências de cada ponto de controle. É importante destacar que as datas podem ser alteradas futuramente
+&nbsp;&nbsp;Tendo em vista os prazos estipulados pela disciplina, a equipe organizou um planejamento inicial de modo a atender às exigências de cada ponto de controle. É importante destacar que as datas podem ser alteradas futuramente.
 
 ### 2.1 Etapas
 
@@ -38,7 +38,7 @@
 ### Horários disponíveis dos integrantes
 
 <p align="justify">
-&nbsp;&nbsp;A tabela abaixo representa os horários disponiveis do integrantes do grupo, com intuito de gerenciar pareamentos e reuniões presenciais ou por videoconferência (utilizando o Google Hangouts)
+&nbsp;&nbsp;A tabela abaixo representa os horários disponiveis do integrantes do grupo, com intuito de gerenciar pareamentos e reuniões presenciais ou por videoconferência (utilizando o Google Hangouts).
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
@@ -58,12 +58,17 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 |:--:|:--:|:--:|
 | ![promobit_logo](../assets/logos/Promobit.png) | [Promobit](https://www.promobit.com.br/) | O Promobit reúne oportunidades de compras com desconto com participação ativa dos usuários |
 | ![Discord_logo](../assets/logos/Discord.png) | [Discord](https://discordapp.com) | Plataforma de comunicação para chamadas de áudio e vídeo |
-| ![Docs_logo](../assets/logos/Docs.png) | [Google Docs](https://docs.google.com) | Ferramenta para criação de documentos |
+| ![Docs_logo](../assets/logos/Docs.png) | [Google Docs](https://docs.google.com) | Ferramenta para criação de documentos simultaneamente entre os integrantes |
+| ![Sheets_logo](../assets/logos/Sheets.png) | [Google Sheets](https://www.zenhub.com) | Ferramenta para criação de planilhas simultaneamente entre os integrantes |
+| ![Slides_logo](../assets/logos/Slides.png) | [Google Slides](https://www.zenhub.com) | Ferramenta para criação de slides simultaneamente entre os integrantes |
 | ![GitHub_logo](../assets/logos/GitHub.png) | [GitHub](https://github.com) | Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
+| ![LiveShare_logo](../assets/logos/LiveShare.png) | [Lucidchart](www.lucidchart.com) | Extensão para o Visual Studio Code que permite o desenvolvimento de documentos simultâneamente entre todos os integrantes |
 | ![Lucidchart_logo](../assets/logos/Lucidchart.png) | [Lucidchart](www.lucidchart.com) | Ferramenta CASE |
-| ![Office_365_logo](../assets/logos/Office365.png) | [Office 365](www.office.com) | Versão online do Microsoft Office 365 |
+| ![Office_365_logo](../assets/logos/Office365.png) | [Microsoft Office 365](www.office.com) | Versão online do Microsoft Office |
+| ![Teams_logo](../assets/logos/Teams.png) | [Microsoft Teams](www.office.com) | Plataforma usada para a gravação das apresentações do projeto |
 | ![Overleaf_logo](../assets/logos/Overleaf.png) | [Overleaf](https://docs.google.com) | Ferramenta para criação de documentos |
 | ![Telegram_logo](../assets/logos/Telegram.png) | [Telegram](https://web.telegram.org) | Ferramenta de comunicação rápida entre os integrantes |
+| ![VSCode_logo](../assets/logos/VisualStudioCode.png) | [VSCode](https://www.zenhub.com) | Editor de código destinado ao desenvolvimento de aplicações web com controle Git incorporado |
 | ![ZenHub_logo](../assets/logos/ZenHub.png) | [ZenHub](https://www.zenhub.com) | Subsistema no GitHub que permite gestão ágil do projeto/grupo com interface KanBan |
 
 <br />
@@ -79,4 +84,5 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 |--|--|--|--|
 | 1.0 | 02/09/2020 | Criação documento de planejamento | Todos os integrantes |
 | 1.1 | 02/09/2020 | Pequenas alterações gerais no documento | Thiago Lopes |
-| 1.1.1 | 16/02/2020 | Adição de ferramentas utilizadas | Thiago Lopes |
+| 1.1.1 | 16/09/2020 | Adição de ferramentas utilizadas | Thiago Lopes |
+| 1.1.2 | 08/10/2020 | Adição de ferramentas utilizadas | Thiago Lopes |
