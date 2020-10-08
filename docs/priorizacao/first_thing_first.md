@@ -38,9 +38,10 @@ A tabela completa com todo o cálculo e o resultado está disponível <a target=
 
 ## Referências Bibliográficas
 
->WIEGERS, Karl; BEATTY, Joy. "Software Requirements"
+>WIEGERS, Karl; BEATTY, Joy. "Software Requirements". Microsoft Press, 2013.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 23/09/2020 | Criação do documento de priorização | Todos os integrantes |
+| 1.1 | 08/10/2020 | Correção nas referências | Igor Paiva |
