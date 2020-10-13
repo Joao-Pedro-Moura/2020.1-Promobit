@@ -86,11 +86,29 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 |       Descrição        | O ato do usuário pesquisar uma oferta no sistema |
 |          Ator(es)      | Usuário |
 |   Pré-condições        | O ator deve estar logado, deve estar na seção de ofertas do sistema além de saber o que procura |
-|    Fluxo principal     | **FP01:**<br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma tabela de busca <br /> 3. O ator clica na caixa de pesquisa <br /> 4. O ator digita a oferta que procura <br /> 5. O ator seleciona a aba ofertas <br /> 6. O sistema lista as ofertas que correspondem à busca<br/>**FP02:**|
+|    Fluxo principal     | **FP01:**<br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma tabela de busca <br /> 3. O ator clica na caixa de pesquisa <br /> 4. O ator digita a oferta que procura <br /> 5. O ator seleciona a aba ofertas <br /> 6. O sistema lista as ofertas que correspondem à busca<br/>|
 | Fluxo alternativo      | **FA01:** Fluxo de quando o ator pesquisou recentemente um produto:<br /> 1. O ator clica no icone de 🔍 <br /> 2. O ator clica no nome do produto buscado recentemente <br /> 3. O ator seleciona a aba ofertas <br /> 4. O sistema lista as ofertas que correspondem à busca <br /> <br /> **FA02:** Fluxo de quando o ator prefere buscar um produto dentre os mais buscados:<br /> 1. O ator clica no icone de 🔍 <br /> 2. O ator clica no nome do produto listado na seção "Produtos mais buscados" <br /> 3. O ator seleciona a aba ofertas <br /> 4. O sistema lista as ofertas que correspondem à busca|
-|   Fluxo de exceções    | **FE02:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma tabela de busca <br /> 3. O ator clica na caixa de pesquisa <br /> 4. O ator digita a oferta que procura <br />  5. O ator seleciona a aba ofertas <br /> 6. O sistema não lista as ofertas que correspondem à busca |
+|   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma tabela de busca <br /> 3. O ator clica na caixa de pesquisa <br /> 4. O ator digita a oferta que procura <br />  5. O ator seleciona a aba ofertas <br /> 6. O sistema não lista as ofertas que correspondem à busca |
 |     Pós condições      | O ator poderá ter encontrado uma oferta publicada e do produto desejado |
 |    Rastreabilidade     | Requisito Funcional 7 do documento contendo todos os requisitos - RF7 Pesquisar oferta |
+
+
+### UC08: Interagir com a oferta
+
+![Interagir com a oferta](../assets/casos_de_uso/interagir_oferta.png)
+
+<a target="_blank" href="https://drive.google.com/file/d/1XWnHprOZePclZ_quBIN3CBDGvQ3NfjtL/view?usp=sharing">Link para o diagrama acima</a>
+
+|         UC08           | Informações |
+| :---------: |----------- |
+|       Descrição        | O ato do usuário interagir com uma oferta no sistema |
+|          Ator(es)      | Usuário |
+|   Pré-condições        | O ator deve estar logado, deve estar visualiando uma oferta em específico |
+|    Fluxo principal     | **FP01:**<br /> 1. O ator clica no icone de :mega: <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator seleciona uma opção que lhe apraz <br /> |
+| Fluxo alternativo      | **FA01:** Fluxo de quando o ator deseja curtir uma oferta:<br /> 1. O ator clica no icone de :thumbsup: <br /> 2. O sistema altera a cor do botão <br /> <br /> **FA02:** Fluxo de quando o ator deseja comentar uma oferta:<br /> 1. O ator clica na caixa de "enviar comentário" <br /> 2. O ator digita o comentário desejado <br /> 3. O ator clica no ícone de enviar <br /> 4. O sistema informa se o comentário foi publicado <br /> <br /> **FA03:** Fluxo de quando o ator deseja compartilhar uma oferta:<br /> 1. O ator clica no ícone de compartilhar" <br /> 2. O ator seleciona o meio de compartilhamento <br /> 3. O sistema altera para o sistema do meio escolhido, confirmando a execução |
+|   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de :thumbsup: <br /> 2. O sistema exibe que é necessário fazer login <br />|
+|     Pós condições      | O ator poderá ter comentado, reportadao, curtido e/ou compartilhado uma oferta publicada |
+|    Rastreabilidade     | Requisito Funcional 13, 20, 21, 23, 26 do documento contendo todos os requisitos - RF13 Compartilhar ofertas RF20 Curtir uma oferta, RF21 Descurtir oferta, RF23 Comentar uma oferta e RF26 Reportar uma oferta |
 
 
 ## Referências Bibliográficas
@@ -112,3 +130,4 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | 6.0.0 | 06/10/2020 | Adição do caso de uso de sugerir tópico no fórum | Thiago Lopes |
 | 6.1.0 | 06/10/2020 | Adição da tabela de caso de uso de sugerir oferta| Marcelo Victor |
 | 7.0.0 | 06/10/2020 | Adição do caso de uso das configurações | Thiago Guilherme |
+| 8.0.0 | 13/10/2020 | Adição do caso de uso de interagir com uma oferta | Rhuan Carlos | 
