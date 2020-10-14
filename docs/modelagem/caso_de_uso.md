@@ -93,6 +93,23 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 |    Rastreabilidade     | Requisito Funcional 7 do documento contendo todos os requisitos - RF7 Pesquisar oferta |
 
 
+### UC06: Realizar login
+
+![Interagir com a oferta](../assets/casos_de_uso/realizar_login.png)
+
+<a target="_blank" href="https://drive.google.com/file/d/1xK3eFtSAQ0JsJxUecWqDM6C7zqdM3EcH/view?usp=sharing">Link para o diagrama acima</a>
+
+|         UC06           | Informações |
+| :---------: |----------- |
+|       Descrição        | O ato do usuário realizar login no sistema |
+|          Ator(es)      | Usuário |
+|   Pré-condições        | O ator deve estar com seu aparelho celular e conexão com a internet |
+|    Fluxo principal     | **FP01:** Fluxo de login usando o Facebook:<br /> 1. O ator clica no ícone do Facebook <br /> 2. É redirecionado para realizar o login via Facebook <br /> 3. Informa seus dados e confirma <br /> <br /> **FP02:** Fluxo de login usando o Google:<br /> 1. O ator clica no ícone do Google <br /> 2. É redirecionado para realizar o login via Google <br /> 3. Informa seus dados e confirma <br /> <br /> **FP03:** Fluxo de login usando a conta promobit:<br /> 1. O ator clica no botão "ENTRAR" <br /> 2. O ator informa seus dados e confirma <br /> |
+| Fluxo alternativo      | **FA01:** Fluxo de login via conta promobit usário esqueceu a senha:<br /> 1. O ator clica no botão "ENTRAR" <br /> 2. Clica em "Entrar sem login" <br /> <br /> **FA02:** Fluxo de entrar sem login:<br /> 1. O ator clica no botão "ENTRAR" <br /> 2. Clica em "Entrar sem login" |
+|   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "ENTRAR" <br /> 2. O sistema exibe uma mensagem de erro <br />|
+|     Pós condições      | O ator poderá realizar qualquer outra funcionalidade do aplicativo |
+|    Rastreabilidade     | - |
+
 ### UC08: Interagir com a oferta
 
 ![Interagir com a oferta](../assets/casos_de_uso/interagir_oferta.png)
@@ -130,4 +147,5 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | 6.0.0 | 06/10/2020 | Adição do caso de uso de sugerir tópico no fórum | Thiago Lopes |
 | 6.1.0 | 06/10/2020 | Adição da tabela de caso de uso de sugerir oferta| Marcelo Victor |
 | 7.0.0 | 06/10/2020 | Adição do caso de uso das configurações | Thiago Guilherme |
-| 8.0.0 | 13/10/2020 | Adição do caso de uso de interagir com uma oferta | Rhuan Carlos | 
+| 8.0.0 | 13/10/2020 | Adição do caso de uso de interagir com uma oferta | Rhuan Carlos |
+| 9.0.0 | 14/10/2020 | Adição do caso de uso de realizar login | Igor Paiva |
