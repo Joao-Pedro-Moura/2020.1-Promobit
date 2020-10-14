@@ -121,12 +121,28 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 |       Descrição        | O ato do usuário interagir com uma oferta no sistema |
 |          Ator(es)      | Usuário |
 |   Pré-condições        | O ator deve estar logado, deve estar visualiando uma oferta em específico |
-|    Fluxo principal     | **FP01:**<br /> 1. O ator clica no icone de :mega: <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator seleciona uma opção que lhe apraz <br /> |
-| Fluxo alternativo      | **FA01:** Fluxo de quando o ator deseja curtir uma oferta:<br /> 1. O ator clica no icone de :thumbsup: <br /> 2. O sistema altera a cor do botão <br /> <br /> **FA02:** Fluxo de quando o ator deseja comentar uma oferta:<br /> 1. O ator clica na caixa de "enviar comentário" <br /> 2. O ator digita o comentário desejado <br /> 3. O ator clica no ícone de enviar <br /> 4. O sistema informa se o comentário foi publicado <br /> <br /> **FA03:** Fluxo de quando o ator deseja compartilhar uma oferta:<br /> 1. O ator clica no ícone de compartilhar" <br /> 2. O ator seleciona o meio de compartilhamento <br /> 3. O sistema altera para o sistema do meio escolhido, confirmando a execução |
-|   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de :thumbsup: <br /> 2. O sistema exibe que é necessário fazer login <br />|
+|    Fluxo principal     | **FP01:**<br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator seleciona uma opção que lhe apraz <br /> |
+| Fluxo alternativo      | **FA01:** Fluxo de quando o ator deseja curtir uma oferta:<br /> 1. O ator clica no icone de 👍 <br /> 2. O sistema altera a cor do botão <br /> <br /> **FA02:** Fluxo de quando o ator deseja comentar uma oferta:<br /> 1. O ator clica na caixa de "enviar comentário" <br /> 2. O ator digita o comentário desejado <br /> 3. O ator clica no ícone de enviar <br /> 4. O sistema informa se o comentário foi publicado <br /> <br /> **FA03:** Fluxo de quando o ator deseja compartilhar uma oferta:<br /> 1. O ator clica no ícone de compartilhar" <br /> 2. O ator seleciona o meio de compartilhamento <br /> 3. O sistema altera para o sistema do meio escolhido, confirmando a execução |
+|   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de 👍 <br /> 2. O sistema exibe que é necessário fazer login <br />|
 |     Pós condições      | O ator poderá ter comentado, reportadao, curtido e/ou compartilhado uma oferta publicada |
 |    Rastreabilidade     | Requisito Funcional 13, 20, 21, 23, 26 do documento contendo todos os requisitos - RF13 Compartilhar ofertas RF20 Curtir uma oferta, RF21 Descurtir oferta, RF23 Comentar uma oferta e RF26 Reportar uma oferta |
 
+### UC09: Lista de Desejos
+
+![Lista de Desejos](../assets/casos_de_uso/lista_de_desejos.png)
+
+<a target="_blank" href="https://drive.google.com/file/d/1dFoeAz0b__JbdJj0JDYqF9dh7GZ-sWRw/view?usp=sharing">Link para o diagrama acima</a>
+
+|         UC09           | Informações |
+| :---------: |----------- |
+|       Descrição        | O ato do usuário criar uma lista de desejos |
+|          Ator(es)      | Usuário |
+|   Pré-condições        | O ator deve estar logado |
+|    Fluxo principal     | **FP01:** Acessar a lista de Desejos <br /> 1. O ator clica no icone "☰" <br /> 2. O ator seleciona a opção "♥ Lista de Desejos" |
+| Fluxo alternativo      | **FA01:** Adicionar uma oferta à Lista de Desejos <br /> 1. O ator clica na aba "OFERTAS" <br /> 2. O ator digita o nome do produto que deseja adicionar. <br /> 3. O ator clica em "ADICIONAR". <br /> 4. O ator pode configurar as preferências referente ao produto clicando no ícone ⚙. <br /> **FA02:** Adicionar um cupom à Lista de Desejos <br /> 1. O ator clica na aba "CUPONS". <br /> 2. O ator clica no campo de texto. <br /> 3. O ator seleciona a categoria de cupom que deseja adicionar. |
+|   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "ADICIONAR" <br /> 2. O sistema exibe uma mensagem de erro <br />|
+|     Pós condições      | O ator será notificado quando a oferta ou cupom adicionado à sua Lista de Desejos for sugerida no sistema. |
+|    Rastreabilidade     | Requisito Funcional 9 do documento contendo todos os requisitos - RF9 Criar uma lista de desejos|
 
 ## Referências Bibliográficas
 
@@ -149,3 +165,4 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | 7.0.0 | 06/10/2020 | Adição do caso de uso das configurações | Thiago Guilherme |
 | 8.0.0 | 13/10/2020 | Adição do caso de uso de interagir com uma oferta | Rhuan Carlos |
 | 9.0.0 | 14/10/2020 | Adição do caso de uso de realizar login | Igor Paiva |
+| 10.0.0 | 14/10/2020 | Adição do caso de uso de criar Lista de Desejos | Thiago Guilherme |
