@@ -77,7 +77,7 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 
 ## 6. Referências Bibliográficas
 
->Integrando XP as principais metodologias ágeis, disponível em: https://www.devmedia.com.br/integrando-xp-as-principais-metodologias-ageis/30989, acesso em: 15/10/2020
+>Integrando XP as principais metodologias ágeis. DEVMEDIA. Disponível em: https://www.devmedia.com.br/integrando-xp-as-principais-metodologias-ageis/30989. Acesso em: 15 de out. de 2020.
 
 <br />
 

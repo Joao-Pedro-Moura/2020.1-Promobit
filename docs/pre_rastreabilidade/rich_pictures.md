@@ -45,7 +45,7 @@
 
 ## Referências Bibliográficas
 
->https://www.betterevaluation.org/en/evaluation-options/richpictures
+>Rich Pictures. BetterEvaluation. Disponível em: https://www.betterevaluation.org/en/evaluation-options/richpictures, acesso em: 15 de out. de 2020.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
