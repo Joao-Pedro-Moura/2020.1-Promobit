@@ -2,14 +2,15 @@
 
 ## 1. Introdução
 
-<p align="justify">
-&nbsp;&nbsp;Este documento apresenta o planejamento do projeto, descreveremos aqui as etapas de desenvolvimento. Será dividido em cinco partes: introdução, cronogramas, metodologia, equipe, ferramentas utilizadas e referência bibliográfica.
+<p style="text-indent: 20px; text-align: justify">
+Este documento apresenta o planejamento do projeto, descreveremos aqui as etapas de desenvolvimento. Será dividido em cinco partes: introdução, cronogramas, metodologia, equipe, ferramentas utilizadas e referência bibliográfica.
 </p>
-<br />
 
 ## 2. Cronogramas
 
-&nbsp;&nbsp;Tendo em vista os prazos estipulados pela disciplina, a equipe organizou um planejamento inicial de modo a atender às exigências de cada ponto de controle. É importante destacar que as datas podem ser alteradas futuramente.
+<p style="text-indent: 20px; text-align: justify">
+Tendo em vista os prazos estipulados pela disciplina, a equipe organizou um planejamento inicial de modo a atender às exigências de cada ponto de controle. É importante destacar que as datas podem ser alteradas futuramente.
+</p>
 
 ### 2.1 Etapas
 
@@ -23,22 +24,24 @@
 |III| Modelagem de Requisitos - Intencional ou Orientada à Meta |18/10 - 28/10 |NFR Framework |
 |IV|  Análise de Requisitos    |  29/10 - 09/11|Verificação - Validação   |
 |V|   Gerência de Desenvolvimento de Software orientada à baseline de Requisitos  | 10/11 - 25/11  |    Pós-Rastreabilidade   |
-<br />
 
 ## 3. Metodologia:
 
-###  eXtreme Programming (XP):
-<p align="justify">
-&nbsp;&nbsp;É uma metodologia leve para times de tamanho pequeno e médio que utiliza quatro valores (comunicação, simplicidade, feedback e coragem). Será adotado o pareamento entre os membros da equipe, vizando homogeneização do conhecimento.
+###  3.1 eXtreme Programming (XP):
+<p style="text-indent: 20px; text-align: justify">
+É uma metodologia leve para times de tamanho pequeno e médio que utiliza quatro valores (comunicação, simplicidade, feedback e coragem). Será adotado o pareamento entre os membros da equipe, vizando homogeneização do conhecimento.
 </p>
-<br />
 
-## 4. Equipe
+###  3.2 Rolagem de dados:
 
-### Horários disponíveis dos integrantes
+<p style="text-indent: 20px; text-align: justify">
+Decidimos qualquer coisa não importante rolando dados!
+</p>
 
-<p align="justify">
-&nbsp;&nbsp;A tabela abaixo representa os horários disponiveis do integrantes do grupo, com intuito de gerenciar pareamentos e reuniões presenciais ou por videoconferência (utilizando o Google Hangouts).
+## 4. Horários disponíveis dos integrantes
+
+<p style="text-indent: 20px; text-align: justify">
+A tabela abaixo representa os horários disponiveis do integrantes do grupo, com intuito de gerenciar pareamentos e reuniões presenciais ou por videoconferência (utilizando o Discord).
 </p>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
@@ -50,7 +53,6 @@
 </div>
 
 Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/personal/180018728_aluno_unb_br/EQdxh2LVMcBFisw_7OY68R0BNMp7wD1DMw01AS471TkVoQ?e=XIeJQP)
-<br /><br />
 
 ## 5. Ferramentas Utilizadas
 
@@ -75,7 +77,7 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 
 ## 6. Referências Bibliográficas
 
->Integrando XP as principais metodologias ágeis, disponível em: https://www.devmedia.com.br/integrando-xp-as-principais-metodologias-ageis/30989
+>Integrando XP as principais metodologias ágeis, disponível em: https://www.devmedia.com.br/integrando-xp-as-principais-metodologias-ageis/30989, acesso em: 15/10/2020
 
 <br />
 
@@ -86,3 +88,4 @@ Tabela horários disponível [**aqui**](https://unbbr-my.sharepoint.com/:x:/g/pe
 | 1.1 | 02/09/2020 | Pequenas alterações gerais no documento | Thiago Lopes |
 | 1.1.1 | 16/09/2020 | Adição de ferramentas utilizadas | Thiago Lopes |
 | 1.1.2 | 08/10/2020 | Adição de ferramentas utilizadas | Thiago Lopes |
+| 1.1.3 | 15/10/2020 | Correções gerais | Igor Paiva |
