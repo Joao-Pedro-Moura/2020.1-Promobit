@@ -110,6 +110,23 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 |     Pós condições      | O ator poderá realizar qualquer outra funcionalidade do aplicativo |
 |    Rastreabilidade     | - |
 
+### UC07: Realizar cadastro
+
+![Interagir com a oferta](../assets/casos_de_uso/realizar_cadastro.png)
+
+<a target="_blank" href="https://drive.google.com/file/d/1kEpW7oX9HvmqJWWXltc0gz1NV_U19nN4/view?usp=sharing">Link para o diagrama acima</a>
+
+|         UC07           | Informações |
+| :---------: |----------- |
+|       Descrição        | O ato do usuário realizar cadastro no sistema |
+|          Ator(es)      | Usuário |
+|   Pré-condições        | O ator deve estar com seu aparelho celular e conexão com a internet |
+|    Fluxo principal     | **FP01:** Fluxo de cadastro usando o Facebook:<br /> 1. O ator clica no botão "Criar conta" <br /> 2. É redirecionado para realizar o cadastro <br /> 3. O ator clica no ícone do facebook <br /> 4. O ator é redirecionado para a página de login do facebook <br /> 5. O ator preenche os campos de login e senha <br /> 6. O ator clica no botão "Entrar" <br /> 7. O ator é redirecionado para a seção de oferta do promobit <br /><br /> **FP02:** Fluxo de cadastro usando o Google:<br /> 1. O ator clica no botão "Criar conta" <br /> 2. É redirecionado para realizar o cadastro <br /> 3. O ator clica no ícone do Google <br /> 4. O ator é redirecionado para a página de login do google <br /> 5. O ator preenche os campos de login e senha <br /> 6. O ator clica no botão "Próximo" <br /> 7. O ator é redirecionado para a seção de oferta do promobit <br /> <br /> **FP03:** Fluxo de login usando a conta promobit:<br /> 1. O ator clica no botão "Criar conta" <br /> 2. É redirecionado para realizar o cadastro <br /> 3. O ator preenche os campos de nome, login e senha <br /> 4. O ator clica no botão "Criar conta" <br /> 5. O ator é redirecionado para a seção de oferta do promobit |
+| Fluxo alternativo      | - |
+|   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "Criar conta" <br /> 2. O sistema exibe uma mensagem de erro com o feedback de "Sem conexão" <br /> <br /> **FE02:** O ator já está cadastrado no sistema:<br /> 1. O ator clica em "Criar conta" <br /> 2. O sistema exibe uma mensagem informando que o usuário já tem seu e-mail cadastrado|
+|     Pós condições      | O ator poderá realizar login e terá acesso as funcionalidades do aplicativo |
+|    Rastreabilidade     | - |
+
 ### UC08: Interagir com a oferta
 
 ![Interagir com a oferta](../assets/casos_de_uso/interagir_oferta.png)
@@ -166,3 +183,4 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | 8.0.0 | 13/10/2020 | Adição do caso de uso de interagir com uma oferta | Rhuan Carlos |
 | 9.0.0 | 14/10/2020 | Adição do caso de uso de realizar login | Igor Paiva |
 | 10.0.0 | 14/10/2020 | Adição do caso de uso de criar Lista de Desejos | Thiago Guilherme |
+| 11.0.0 | 14/10/2020 | Adição do caso de uso de realizar cadastro | Marcelo Victor |
