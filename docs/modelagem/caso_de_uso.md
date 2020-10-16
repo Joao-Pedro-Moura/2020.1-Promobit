@@ -141,7 +141,7 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 |    Fluxo principal     | **FP01:**<br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator seleciona uma opção que lhe apraz <br /> |
 | Fluxo alternativo      | **FA01:** Fluxo de quando o ator deseja curtir uma oferta:<br /> 1. O ator clica no icone de 👍 <br /> 2. O sistema altera a cor do botão <br /> <br /> **FA02:** Fluxo de quando o ator deseja comentar uma oferta:<br /> 1. O ator clica na caixa de "enviar comentário" <br /> 2. O ator digita o comentário desejado <br /> 3. O ator clica no ícone de enviar <br /> 4. O sistema informa se o comentário foi publicado <br /> <br /> **FA03:** Fluxo de quando o ator deseja compartilhar uma oferta:<br /> 1. O ator clica no ícone de compartilhar" <br /> 2. O ator seleciona o meio de compartilhamento <br /> 3. O sistema altera para o sistema do meio escolhido, confirmando a execução |
 |   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de 👍 <br /> 2. O sistema exibe que é necessário fazer login <br />|
-|     Pós condições      | O ator poderá ter comentado, reportadao, curtido e/ou compartilhado uma oferta publicada |
+|     Pós condições      | O ator poderá ter comentado, reportado, curtido e/ou compartilhado uma oferta publicada |
 |    Rastreabilidade     | Requisito Funcional 13, 20, 21, 23, 26 do documento contendo todos os requisitos - RF13 Compartilhar ofertas RF20 Curtir uma oferta, RF21 Descurtir oferta, RF23 Comentar uma oferta e RF26 Reportar uma oferta |
 
 ### UC09: Lista de Desejos
@@ -158,8 +158,24 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 |    Fluxo principal     | **FP01:** Acessar a lista de Desejos <br /> 1. O ator clica no icone "☰" <br /> 2. O ator seleciona a opção "♥ Lista de Desejos" |
 | Fluxo alternativo      | **FA01:** Adicionar uma oferta à Lista de Desejos <br /> 1. O ator clica na aba "OFERTAS" <br /> 2. O ator digita o nome do produto que deseja adicionar. <br /> 3. O ator clica em "ADICIONAR". <br /> 4. O ator pode configurar as preferências referente ao produto clicando no ícone ⚙. <br /> **FA02:** Adicionar um cupom à Lista de Desejos <br /> 1. O ator clica na aba "CUPONS". <br /> 2. O ator clica no campo de texto. <br /> 3. O ator seleciona a categoria de cupom que deseja adicionar. |
 |   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "ADICIONAR" <br /> 2. O sistema exibe uma mensagem de erro <br />|
-|     Pós condições      | O ator será notificado quando a oferta ou cupom adicionado à sua Lista de Desejos for sugerida no sistema. |
+|     Pós condições      |  O ator poderá ter comentado, reportado, curtido e/ou compartilhado uma oferta publicada |
 |    Rastreabilidade     | Requisito Funcional 9 do documento contendo todos os requisitos - RF9 Criar uma lista de desejos|
+
+### UC10: Visualizar tópico no forum
+![Visualizar tópico no fórum](../assets/casos_de_uso/visualizar_topico_forum.png)
+
+<a target="_blank" href="https://drive.google.com/file/d/1-XXfg-auieUWLq4-1gGUXKMaHHq1MWju/view?usp=sharing">Link para o diagrama acima</a>
+
+|         UC10           |                                           Informações                                           |
+| :--------------------: | -------------------------------------------------------------------------------------------- |
+|       Descrição        | O ato do usuário visualizar um tópico específico dentro do fórum |
+|       Ator(es)         | Usuário |
+|      Pré-condições     | O ator deve estar logado, e deve estar na seção de fórum do sistema. |
+|    Fluxo principal     | **FP01:** Visualizar um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> |
+| Fluxo alternativo      | **FA01:** O ator dá like em um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator seleciona o botão "Gostar" <br /> <br />**FA02:** O ator ativa notificações de um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator clica no botão "Notificações" <br /><br /> **FA03:** Ator faz um comentário em um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator clica no botão "Notificações" <br /> 4. O ator clica no botão "Responder" <br /> 5. O sistema leva o ator à caixa de texto para que ele possa adicionar sua resposta <br /> 6. O ator adiciona sua resposta <br /><br /> **FA04:** Ator reporta um comentário de um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator rola até a aba de comentários <br /> 4. O ator clica no ícone "☰" abaixo do comentário que ele deseja reportar<br /> 5. O ator pressiona a opção "Reportar" <br /><br /> **FA05:** Ator dá like no comentário de um tópico do fórum <br />  1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator rola até a aba de comentários <br /> 4. O ator clica no botão "Gostar" abaixo do comentário que ele deseja dar like <br /><br /> **FA06:** Ator responde comentário em um tópico do fórum <br />  1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator rola até a aba de comentários <br /> 4. O ator clica no botão "Responder" abaixo do comentário que ele deseja responder <br /> 5. Ator digita o que deseja responder no campo de texto
+|   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em um tópico no forum" <br /> 2. O sistema exibe uma mensagem de falha na conexão |
+|     Pós condições      |  O ator poderá ter dado like, comentado e/ou ativado notificações de um tópico publicado no fórum |
+|    Rastreabilidade     | Requisito Funcional 11 do documento contendo todos os requisitos - RF11 Visualizar tópicos do fórum |
 
 ## Referências Bibliográficas
 
