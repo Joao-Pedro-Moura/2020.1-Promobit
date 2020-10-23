@@ -107,4 +107,4 @@
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 16/10/2020 | Criação do documento | Igor Paiva, Rhuan Queiroz, Thiago Guilherme, Thiago Lopes |
+| 1.0 | 16/10/2020 | Criação do documento | Todos os integrantes |
