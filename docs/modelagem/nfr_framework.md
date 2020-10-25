@@ -12,25 +12,25 @@
 
 ![Segurança](../assets/NFR/nfr-seguranca.png)
 
-<a target="_blank" href="https://drive.google.com/file/d/1J6RBl-wC7CLMkTMY91mW-YDrGyY3HR-f/view?usp=sharing">Link para o diagrama acima</a>
+<a target="_blank" href="https://drive.google.com/file/d/1YvO-90uu9GAWKVtxOe_Ww_yqhNj6NkqY/view?usp=sharing">Link para o diagrama acima</a>
 
 #### Propagação
 
 ![Segurança Propagada](../assets/NFR/nfr-seguranca-propagado.png)
 
-<a target="_blank" href="https://drive.google.com/file/d/1xx7kCUSKzjsyYrym11D7lKkvfV2dj2Ed/view?usp=sharing">Link para o diagrama acima</a>
+<a target="_blank" href="https://drive.google.com/file/d/1Y4aBuNBaKcTlTsInfOFvz_hYg91oIxVG/view?usp=sharing">Link para o diagrama acima</a>
 
 ### NFRF02: Usabilidade
 
 ![Usabilidade](../assets/NFR/nfr-usabilidade.png)
 
-<a target="_blank" href="https://drive.google.com/file/d/13VC9YcmCZrAYrbhJOvkyLHtTxXWVxYX_/view?usp=sharing">Link para o diagrama acima</a>
+<a target="_blank" href="https://drive.google.com/file/d/1rdJ6jGvDAPaN1okjqzfiyqUklDRMhlR9/view?usp=sharing">Link para o diagrama acima</a>
 
 #### Propagação
 
 ![Usabilidade propagado](../assets/NFR/nfr-usabilidade-propagado.png)
 
-<a target="_blank" href="https://drive.google.com/file/d/1vTff-KaTYcQwHALNokWesxKqMuFcAp3-/view?usp=sharing">Link para o diagrama acima</a>
+<a target="_blank" href="https://drive.google.com/file/d/1bTE7Osr04B53fs062FVzH1gY_JC1zhRW/view?usp=sharing">Link para o diagrama acima</a>
 
 ### NFRF03: Performance
 
@@ -108,3 +108,4 @@
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 16/10/2020 | Criação do documento | Todos os integrantes |
+| 1.1 | 25/10/2020 | Correção NFRs de segurança e usabilidade | Todos os integrantes |
