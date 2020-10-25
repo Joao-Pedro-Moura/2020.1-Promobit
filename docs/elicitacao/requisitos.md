@@ -67,6 +67,26 @@ Nós decidimos utilizar a seguinte notação para a identificação dos requisit
 |RF53| Avaliar produtos e ofertas cadastrados | Questionário |
 |RF54| Visualizar todas as ofertas | Introspecção |
 |RF55| Visualizar todos os cupons | Introspecção |
+|RF56| Criar conta de usuário | Brainstorm |
+|RF57| Fazer login de usuário | Brainstorm |
+|RF58| Remover oferta | Brainstorm |
+|RF59| Remover cupom | Brainstorm |
+|RF60| Remover comentário da oferta | Brainstorm |
+|RF61| Remover comentário do cupom | Brainstorm |
+|RF62| Remover comentário do tópico do fórum | Brainstorm |
+|RF63| Banir usuário | Brainstorm |
+|RF64| Remover tópico do fórum | Brainstorm |
+|RF65| Validar tópico do fórum | Brainstorm |
+
+Fazer login de usuário
+Remover oferta
+Remover cupom
+Remover comentário da oferta
+Remover comentário do cupom
+Remover comentário do tópico do fórum
+Banir usuário
+Remover tópico do fórum
+Validar tópico do fórum
 
 ## Requisitos não funcionais
 
@@ -96,3 +116,4 @@ Nós decidimos utilizar a seguinte notação para a identificação dos requisit
 |--|--|--|--|
 | 1.0 | 03/10/2020 | Listagem dos requisitos elicitados | Todos os integrantes |
 | 1.1 | 06/10/2020 | Correção de alguns requisitos | Igor Paiva, Marcelo Victor, Rhuan Carlos e Thiago Lopes |
+| 1.2 | 25/10/2020 | Adição de novos requisitos funcionais elicitados | Todos os integrantes |

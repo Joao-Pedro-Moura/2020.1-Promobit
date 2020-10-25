@@ -108,7 +108,28 @@
 |3| Adicionar CEP |
 |4| Alterar CEP |
 
-## 5. Referências Bibliográficas
+## 5. 3ª sessão de brainstorming
+
+<p style="text-indent: 20px; text-align: justify">
+  Foi realizada uma terceira sessão de <i>brainstorming</i> para tentar prospectar novos requisitos, visto que algumas necessidades do sistema não foram elicitadas anteriormente.
+</p>
+
+### 5.1 Requisitos funcionais
+
+| Número | Requisito |
+|:--:|--|
+|1| Criar conta |
+|2| Fazer login |
+|3| Remover oferta |
+|4| Remover cupom |
+|5| Remover comentário da oferta |
+|6| Remover comentário do cupom |
+|7| Remover comentário do tópico do fórum |
+|8| Banir usuário |
+|9| Remover tópico do fórum |
+|10| Validar tópico do fórum |
+
+## 6. Referências Bibliográficas
 
 >BARBOSA. Simone. SILVA. Bruno. 2010. Interação Humano-computador.
 
@@ -117,3 +138,4 @@
 |--|--|--|--|
 | 1.0 | 21/09/2020 | Criação do documento de brainstorming | Todos os integrantes |
 | 2.0 | 03/10/2020 | Realização da segunda sessão de brainstorming | Todos os integrantes |
+| 3.0 | 25/10/2020 | Realização da terceira sessão de brainstorming | Todos os integrantes |
