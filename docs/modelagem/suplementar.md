@@ -77,7 +77,9 @@ Não é importante para o sistema pois as operações e comunicações com as di
 
 ### 3.3 Requisitos de performance
 
-- Tempo de resposta: o tempo de resposta do aplicativo deve ser rápido considerando a velocidade de atualização de ofertas no mercado.
+- Tempo de resposta: o tempo de resposta do aplicativo deve ser de no máximo 10 segundos.
+
+- Tempo de validação automática: o sistema não deve levar mais de 1 minuto para validar uma oferta ou cupom.
 
 - Dependabilidade do sistema: se o sistema perder a conexão o usuário deve ser informado do mesmo.
 
@@ -91,7 +93,7 @@ Os requisitos de usabilidade listados abaixo não são todos, consideramos tamb�
 
 - Pesquisa proeminente: a feature buscada deve ser fácil de ser encontrada pelo usuário.
 
-- Pesquisa fácil: as diferentes opções de busca devem ser evidentes, simples e fáceis de entender.
+- Pesquisa intuitiva: as diferentes opções de busca devem ser evidentes, simples e fáceis de entender.
 
 ### 3.5 Atributos do sistema de software
 
@@ -139,3 +141,4 @@ Os requisitos de usabilidade listados abaixo não são todos, consideramos tamb�
 |--|--|--|--|
 | 1.0 | 07/10/2020 | Criação do documento de especificação suplementar | Rhuan carlos e Marcelo Victor |
 | 1.1 | 16/10/2020 | Adição de requisitos de usabilidade e correções gerais | Igor Paiva e Rhuan carlos |
+| 1.2 | 25/10/2020 | Correções gerais advindas do feedback | Todos os integrantes |
