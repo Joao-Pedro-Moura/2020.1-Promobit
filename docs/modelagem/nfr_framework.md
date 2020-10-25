@@ -8,6 +8,12 @@
 
 ## Non-Functional-Requirements (NFR)
 
+### NFR Geral
+
+![Geral](../assets/NFR/nfr-geral.png)
+
+<a target="_blank" href="https://drive.google.com/file/d/1CymrFWq7DXkJBQOt1W8imcDFU9GD6wZM/view?usp=sharing">Link para o diagrama acima</a>
+
 ### NFRF01: Segurança
 
 ![Segurança](../assets/NFR/nfr-seguranca.png)
@@ -109,3 +115,4 @@
 |--|--|--|--|
 | 1.0 | 16/10/2020 | Criação do documento | Todos os integrantes |
 | 1.1 | 25/10/2020 | Correção NFRs de segurança e usabilidade | Todos os integrantes |
+| 1.2 | 25/10/2020 | Adição de NFR geral | Todos os integrantes |
