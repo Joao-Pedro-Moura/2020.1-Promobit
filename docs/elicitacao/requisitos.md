@@ -78,16 +78,6 @@ Nós decidimos utilizar a seguinte notação para a identificação dos requisit
 |RF64| Remover tópico do fórum | Brainstorm |
 |RF65| Validar tópico do fórum | Brainstorm |
 
-Fazer login de usuário
-Remover oferta
-Remover cupom
-Remover comentário da oferta
-Remover comentário do cupom
-Remover comentário do tópico do fórum
-Banir usuário
-Remover tópico do fórum
-Validar tópico do fórum
-
 ## Requisitos não funcionais
 
 | Número | Requisito | Técnicas |
