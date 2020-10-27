@@ -109,7 +109,7 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | Fluxo alternativo      | **FA01:** Fluxo de login via conta promobit usário esqueceu a senha:<br /> 1. O ator clica no botão "ENTRAR" <br /> 2. Clica em "Entrar sem login" <br /> <br /> **FA02:** Fluxo de entrar sem login:<br /> 1. O ator clica no botão "ENTRAR" <br /> 2. Clica em "Entrar sem login" |
 |   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "ENTRAR" <br /> 2. O sistema exibe uma mensagem de erro <br />|
 |     Pós condições      | O ator poderá realizar qualquer outra funcionalidade do aplicativo |
-|    Rastreabilidade     | - |
+|    Rastreabilidade     | RF57 |
 
 ### UC07: Realizar cadastro
 
@@ -126,7 +126,7 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 | Fluxo alternativo      | - |
 |   Fluxo de exceções    | **FE01:** Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "Criar conta" <br /> 2. O sistema exibe uma mensagem de erro com o feedback de "Sem conexão" <br /> <br /> **FE02:** O ator já está cadastrado no sistema:<br /> 1. O ator clica em "Criar conta" <br /> 2. O sistema exibe uma mensagem informando que o usuário já tem seu e-mail cadastrado|
 |     Pós condições      | O ator poderá realizar login e terá acesso as funcionalidades do aplicativo |
-|    Rastreabilidade     | - |
+|    Rastreabilidade     | RF56 |
 
 ### UC08: Interagir com a oferta
 
