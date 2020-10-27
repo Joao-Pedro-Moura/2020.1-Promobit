@@ -180,7 +180,7 @@ Um documento de caso de uso é uma metodologia que descreve como o usuário real
 
 ## Referências Bibliográficas
 
->Use Cases, Disponível em: https://www.usability.gov/how-to-and-tools/methods/use-cases.html
+>Use Cases. usability.gov. Disponível em: https://www.usability.gov/how-to-and-tools/methods/use-cases.html. Acesso em: 15 de out. de 2020
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
