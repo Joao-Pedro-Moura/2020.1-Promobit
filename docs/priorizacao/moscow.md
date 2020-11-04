@@ -89,16 +89,16 @@ Nós decidimos utilizar o MoSCoW para termos uma comparação quanto a prioriza�
 |RF53| Avaliar produtos e ofertas cadastrados | **Could** |
 |RF54| Visualizar todas as ofertas | **Must** |
 |RF55| Visualizar todos os cupons | **Must** |
-|RF56| Criar conta | Brainstorm | **Must** |
-|RF57| Fazer login | Brainstorm | **Must** |
-|RF58| Remover oferta | Brainstorm | **Must** |
-|RF59| Remover cupom | Brainstorm | **Must** |
-|RF60| Remover comentário da oferta | Brainstorm | **Must** |
-|RF61| Remover comentário do cupom | Brainstorm | **Must** |
-|RF62| Remover comentário do tópico do fórum | Brainstorm | **Must** |
-|RF63| Banir usuário | Brainstorm | **Must** |
-|RF64| Remover tópico do fórum | Brainstorm | **Must** |
-|RF65| Validar tópico do fórum | Brainstorm | **Must** |
+|RF56| Criar conta | **Must** |
+|RF57| Fazer login | **Must** |
+|RF58| Remover oferta | **Must** |
+|RF59| Remover cupom | **Must** |
+|RF60| Remover comentário da oferta | **Must** |
+|RF61| Remover comentário do cupom |  **Must** |
+|RF62| Remover comentário do tópico do fórum | **Must** |
+|RF63| Banir usuário |  **Must** |
+|RF64| Remover tópico do fórum |  **Must** |
+|RF65| Validar tópico do fórum |  **Must** |
 
 
 ## Requisitos não funcionais
@@ -133,3 +133,4 @@ Nós decidimos utilizar o MoSCoW para termos uma comparação quanto a prioriza�
 |--|--|--|--|
 | 1.0 | 06/10/2020 | Criação do documento de priorização MoSCoW | Igor Paiva, Marcelo Victor, Rhuan Carlos e Thiago Lopes |
 | 1.1 | 25/10/2020 | Adição de novos requisitos funcionais após nova sessão de brainstorming | Todos os integrantes |
+| 1.2 | 04/11/2020 | Correção da priorização dos requisitos funcionais 56 em diante | Thiago Lopes |
