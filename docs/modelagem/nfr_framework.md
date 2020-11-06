@@ -8,6 +8,12 @@
 
 ## Non-Functional-Requirements (NFR)
 
+### Legenda
+
+![Legenda](../assets/NFR/legenda.png)
+
+<a target="_blank" href="https://drive.google.com/file/d/1YsRA9OxRhOQBj3xRw5JIei6kKOLq5-xv/view?usp=sharing">Link para a legenda acima</a>
+
 ### NFR Geral
 
 ![Geral](../assets/NFR/nfr-geral.png)
@@ -116,3 +122,4 @@
 | 1.0 | 16/10/2020 | Criação do documento | Todos os integrantes |
 | 1.1 | 25/10/2020 | Correção NFRs de segurança e usabilidade | Todos os integrantes |
 | 1.2 | 25/10/2020 | Adição de NFR geral | Todos os integrantes |
+| 1.3 | 05/11/2020 | Adição da legenda do NFRF | Igor Paiva |
