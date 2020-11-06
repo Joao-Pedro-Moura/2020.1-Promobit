@@ -33,6 +33,7 @@ pages:
     - Verificação:
         - Planejamento: analise/verificacao.md
         - Rich pictures: analise/verificacao/rich_picture.md
+        - Cenários: analise/verificacao/cenario.md
     - Validação: analise/validacao.md
   - Apresentações: apresentacoes.md
   # sempre a última
