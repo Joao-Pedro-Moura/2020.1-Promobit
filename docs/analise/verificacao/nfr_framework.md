@@ -20,7 +20,7 @@
 | 10 | A ortografia está correta? | ✔ |
 | 11 | Possui propagação coerente? | ✔ |
 | 12 | Possui relacionamentos claros e coerentes? | ✔ |
-| 13 | Possui *claims* consisos e em locais necessários? | ✔ |
+| 13 | Possui *claims* concisos e em locais necessários? | ✔ |
 | 14 | Possui contribuições apenas aonde é necessário? | ✔ |
 | 15 | Possui contribuições concisas? | ✔ |
 
@@ -40,7 +40,7 @@
 | 10 | A ortografia está correta? | ✔ |
 | 11 | Possui propagação coerente? | ✔ |
 | 12 | Possui relacionamentos claros e coerentes? | ✔ |
-| 13 | Possui *claims* consisos e em locais necessários? | ✔ |
+| 13 | Possui *claims* concisos e em locais necessários? | ✔ |
 | 14 | Possui contribuições apenas aonde é necessário? | ✔ |
 | 15 | Possui contribuições concisas? | ✔ |
 
@@ -61,7 +61,7 @@
 | 10 | A ortografia está correta? | ✔ |
 | 11 | Possui propagação coerente? | ✔ |
 | 12 | Possui relacionamentos claros e coerentes? | ✔ |
-| 13 | Possui *claims* consisos e em locais necessários? | ✔ |
+| 13 | Possui *claims* concisos e em locais necessários? | ✔ |
 | 14 | Possui contribuições apenas aonde é necessário? | ✔ |
 | 15 | Possui contribuições concisas? | ✔ |
 
@@ -82,7 +82,7 @@
 | 10 | A ortografia está correta? | ✔ |
 | 11 | Possui propagação coerente? | ✔ |
 | 12 | Possui relacionamentos claros e coerentes? | ✔ |
-| 13 | Possui *claims* consisos e em locais necessários? | ✔ |
+| 13 | Possui *claims* concisos e em locais necessários? | ✔ |
 | 14 | Possui contribuições apenas aonde é necessário? | ✔ |
 | 15 | Possui contribuições concisas? | ✖ |
 
@@ -111,7 +111,7 @@
 | 10 | A ortografia está correta? | ✔ |
 | 11 | Possui propagação coerente? | ✔ |
 | 12 | Possui relacionamentos claros e coerentes? | ✔ |
-| 13 | Possui *claims* consisos e em locais necessários? | ✔ |
+| 13 | Possui *claims* concisos e em locais necessários? | ✔ |
 | 14 | Possui contribuições apenas aonde é necessário? | ✔ |
 | 15 | Possui contribuições concisas? | ✔ |
 
@@ -131,7 +131,7 @@
 | 10 | A ortografia está correta? | ✔ |
 | 11 | Possui propagação coerente? | ✔ |
 | 12 | Possui relacionamentos claros e coerentes? | ✔ |
-| 13 | Possui *claims* consisos e em locais necessários? | ✔ |
+| 13 | Possui *claims* concisos e em locais necessários? | ✔ |
 | 14 | Possui contribuições apenas aonde é necessário? | ✔ |
 | 15 | Possui contribuições concisas? | ✔ |
 
@@ -151,7 +151,7 @@
 | 10 | A ortografia está correta? | ✔ |
 | 11 | Possui propagação coerente? | ✔ |
 | 12 | Possui relacionamentos claros e coerentes? | ✔ |
-| 13 | Possui *claims* consisos e em locais necessários? | ✔ |
+| 13 | Possui *claims* concisos e em locais necessários? | ✔ |
 | 14 | Possui contribuições apenas aonde é necessário? | ✔ |
 | 15 | Possui contribuições concisas? | ✔ |
 
@@ -171,7 +171,7 @@
 | 10 | A ortografia está correta? | ✔ |
 | 11 | Possui propagação coerente? | ✔ |
 | 12 | Possui relacionamentos claros e coerentes? | ✔ |
-| 13 | Possui *claims* consisos e em locais necessários? | ✔ |
+| 13 | Possui *claims* concisos e em locais necessários? | ✔ |
 | 14 | Possui contribuições apenas aonde é necessário? | ✔ |
 | 15 | Possui contribuições concisas? | ✔ |
 
@@ -206,7 +206,7 @@
 | 10 | A ortografia está correta? | 100% |
 | 11 | Possui propagação coerente? | 100% |
 | 12 | Possui relacionamentos claros e coerentes? | 100% |
-| 13 | Possui *claims* consisos e em locais necessários? | 100% |
+| 13 | Possui *claims* concisos e em locais necessários? | 100% |
 | 14 | Possui contribuições apenas aonde é necessário? | 100% |
 | 15 | Possui contribuições concisas? | 87% |
 
@@ -225,3 +225,4 @@ Os erros ainda não foram corrigidos. Mas serão em breve.
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 05/11/2020 | Criação do documento de verificação dos NFRFs | Igor, Marcelo e Rhuan |
+| 1.1 | 06/11/2020 | Correção ortográfica | Rhuan |
