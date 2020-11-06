@@ -34,6 +34,7 @@ pages:
         - Planejamento: analise/verificacao.md
         - Rich pictures: analise/verificacao/rich_picture.md
         - Cenários: analise/verificacao/cenario.md
+        - Léxicos: analise/verificacao/lexico.md
         - NFR Framework: analise/verificacao/nfr_framework.md
     - Validação: analise/validacao.md
   - Apresentações: apresentacoes.md
