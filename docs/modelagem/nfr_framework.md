@@ -14,7 +14,7 @@
 
 <a target="_blank" href="https://drive.google.com/file/d/1YsRA9OxRhOQBj3xRw5JIei6kKOLq5-xv/view?usp=sharing">Link para a legenda acima</a>
 
-### NFR Geral
+### NFRF Geral
 
 ![Geral](../assets/NFR/nfr-geral.png)
 
