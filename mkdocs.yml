@@ -37,6 +37,7 @@ pages:
         - Cenários: analise/verificacao/cenario.md
         - Léxicos: analise/verificacao/lexico.md
         - NFR Framework: analise/verificacao/nfr_framework.md
+        - Backlog de Produto: analise/verificacao/backlog.md
     - Validação: analise/validacao.md
   - Apresentações: apresentacoes.md
   # sempre a última

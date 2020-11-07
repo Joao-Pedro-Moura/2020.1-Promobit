@@ -214,7 +214,7 @@ Critérios de aceitação
 * Deve conter um campo com os perfis dos usuários
 * Deve ter um botão que redirecione o usuário para as informações do usuário selecionado
 
-### EP02: Conta de usuário
+### EP02: Ofertas
 
 #### US19: Visualizar oferta
 
