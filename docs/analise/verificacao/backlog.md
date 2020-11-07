@@ -166,9 +166,9 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 6 | Possui rastreabilidade? | ✔ |
 | 7 | O épico associado é coerente? | ✔ |
 | 8 | A ortografia está correta? | ✔ |
-| 9 | Possui critérios de aceitação coerentes? | ✖ |
+| 9 | Possui critérios de aceitação coerentes? | ✔ |
 | 10 | Possui ator coerente? | ✔ |
-| 11 | A história de usuário é coerente? | ✔ |
+| 11 | A história de usuário é coerente? | ✖ |
 
 ##### Problemas 
 
@@ -1552,9 +1552,9 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 6 | Possui rastreabilidade? | 100% |
 | 7 | O épico associado é coerente? | 100% |
 | 8 | A ortografia está correta? | 85% |
-| 9 | Possui critérios de aceitação coerentes? | 92% |
+| 9 | Possui critérios de aceitação coerentes? | 93% |
 | 10 | Possui ator coerente? | 100% |
-| 11 | A história de usuário é coerente? | 88% |
+| 11 | A história de usuário é coerente? | 86% |
 
 ## 3. Acompanhamento
 
