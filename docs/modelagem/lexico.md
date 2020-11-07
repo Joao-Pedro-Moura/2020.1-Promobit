@@ -14,7 +14,7 @@ No contexto de léxico há o tipo que pode ser um verbo, objeto, ou estado. Há 
 caso de ser verbo se torna quem realiza quando acontece e quais os procedimentos envolvido, no
 caso de objeto é definir o objeto e identificar outros objetos com os quais se relaciona e no caso de
 estado se torna o que significa e quais ações levaram a esse estado. Há também o impacto que no
-caso verbo se tona os reflexos da ação no ambiente (outras ações que devem ocorrer) e quais os
+caso verbo se torna os reflexos da ação no ambiente (outras ações que devem ocorrer) e quais os
 novos estados decorrentes, no caso do objeto se torna as ações que podem ser aplicadas ao objeto, e
 por final no caso do estado se torna o ato de identificar outros estados e ações que podem ocorrer a
 partir do estado que se descreve.

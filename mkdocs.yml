@@ -29,6 +29,16 @@ pages:
       - Especificação suplementar: modelagem/suplementar.md
       - NFR Framework: modelagem/nfr_framework.md
       - Backlog do produto: modelagem/backlog_do_produto.md
+  - Análise:
+    - Verificação:
+        - Planejamento: analise/verificacao.md
+        - Rich pictures: analise/verificacao/rich_picture.md
+        - Casos de Uso: analise/verificacao/caso_de_uso.md
+        - Cenários: analise/verificacao/cenario.md
+        - Léxicos: analise/verificacao/lexico.md
+        - NFR Framework: analise/verificacao/nfr_framework.md
+        - Backlog de Produto: analise/verificacao/backlog.md
+    - Validação: analise/validacao.md
   - Apresentações: apresentacoes.md
   # sempre a última
   - Atas:
