@@ -33,6 +33,7 @@ pages:
     - Verificação:
         - Planejamento: analise/verificacao.md
         - Rich pictures: analise/verificacao/rich_picture.md
+        - Casos de Uso: analise/verificacao/caso_de_uso.md
         - Cenários: analise/verificacao/cenario.md
         - Léxicos: analise/verificacao/lexico.md
         - NFR Framework: analise/verificacao/nfr_framework.md
