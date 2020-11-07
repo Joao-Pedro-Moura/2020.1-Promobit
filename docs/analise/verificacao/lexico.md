@@ -36,13 +36,13 @@
 
 ##### Problemas 
 
-7. Há um sinônimo ausente, embora pouco usado.
-10. Dentro do impacto há ausência de acentuação correta em "utiliza-lo".
+7 - Há um sinônimo ausente, embora pouco usado. <br />
+10 - Dentro do impacto há ausência de acentuação correta em "utiliza-lo".
 
 ##### Possíveis soluções
  
-7. Inserir o sinônimo "voucher" ao léxico.
-10. Corrigir acentuação.
+7 - Inserir o sinônimo "voucher" ao léxico. <br />
+10 - Corrigir acentuação.
 
 #### L3 - **Curtir**
 
@@ -61,11 +61,11 @@
 
 ##### Problemas 
 
-3. Dentro do impacto, menciona-se "[...] pode gerar uma maior visibilidade para algum fator", qual seria o fator em questão?
+3 - Dentro do impacto, menciona-se "[...] pode gerar uma maior visibilidade para algum fator", qual seria o fator em questão?
 
 ##### Possíveis soluções
  
-3. Substituir fator por objeto ou explicar melhor doque se trata este fator.
+3 - Substituir fator por objeto ou explicar melhor doque se trata este fator.
 
 #### L4 - **Lista de desejos**
 
@@ -114,11 +114,11 @@
 
 ##### Problemas 
 
-10. Na sentença "Forma em que o usuário propor alguma [...]", há ausência de concordância do verbo.
+10 - Na sentença "Forma em que o usuário propor alguma [...]", há ausência de concordância do verbo.
 
 ##### Possíveis soluções
  
-10. "Forma em que o usuário propõe [...]".
+10 - "Forma em que o usuário propõe [...]".
 
 #### L7 - **Medalha**
 
@@ -212,11 +212,11 @@
 
 ##### Problemas 
 
-3. Ausência de melhor explicação sobre as consequências mencionadas no impacto. 
+3 - Ausência de melhor explicação sobre as consequências mencionadas no impacto. 
 
 ##### Possíveis soluções
  
-3. Exemplificar, sucintamente, quais as consequências possíveis.
+3 - Exemplificar, sucintamente, quais as consequências possíveis.
 
 #### L13 - **Comentar**
 
@@ -250,11 +250,11 @@
 
 ##### Problemas 
 
-10. "Um usuário bloquea outro usuário [...]" o verbo bloquear se encontra escrito errado.
+10 - "Um usuário bloquea outro usuário [...]" o verbo bloquear se encontra escrito errado.
 
 ##### Possíveis soluções
  
-10. Corrigir escrita do verbo bloquear
+10 - Corrigir escrita do verbo bloquear
 
 #### L15 - **Barra de busca**
 

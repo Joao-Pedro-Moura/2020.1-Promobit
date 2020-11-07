@@ -36,11 +36,11 @@
 
 #### Problemas 
 
-7. O usuário é o elemento com foco central no Rich Picture, fazendo com que possa haver confusão.
+7 - O usuário é o elemento com foco central no Rich Picture, fazendo com que possa haver confusão.
 
 #### Possíveis soluções
  
-7. Reestruturar o Rich Picture de forma com que o elemento "oferta" seja o foco central do diagrama.
+7 - Reestruturar o Rich Picture de forma com que o elemento "oferta" seja o foco central do diagrama.
 
 #### RP3 - Cupons
 
@@ -89,15 +89,15 @@
 
 #### Problemas 
 
-4. Um elemento descenessário sem nome polui o Rich Picture, fazendo com que possa haver confusão.
-6. A seta que conecta o elemento "fórum" ao elemento "usuário" está diposta de forma equivocada.
-7. O elemento fórum não está no ponto central do Rich Picture, fazendo com que possa haver confusão.
+4 - Um elemento descenessário sem nome polui o Rich Picture, fazendo com que possa haver confusão. <br />
+6 - A seta que conecta o elemento "fórum" ao elemento "usuário" está diposta de forma equivocada. <br />
+7 - O elemento fórum não está no ponto central do Rich Picture, fazendo com que possa haver confusão.
 
 #### Possíveis soluções
 
-4. Retirar o elemento desnecessário para tornar o Rich Picture mais limpo e de fácil compreensão.
-6. Inverter a posição da seta.
-7. Reestruturar o Rich Picture de forma com que o elemento "fórum" seja o foco central do diagrama.
+4 - Retirar o elemento desnecessário para tornar o Rich Picture mais limpo e de fácil compreensão. <br />
+6 - Inverter a posição da seta. <br />
+7 - Reestruturar o Rich Picture de forma com que o elemento "fórum" seja o foco central do diagrama.
 
 #### RP6 - Configuração
 

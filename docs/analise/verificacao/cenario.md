@@ -20,13 +20,13 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-8. O planejamento possui um passo a passo desnecessário.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+8 - O planejamento possui um passo a passo desnecessário.
 
 #### Possíveis soluções
 
-5. Colocar o passo a passo do planejamento na aba de ações
-8. Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
+5 - Colocar o passo a passo do planejamento na aba de ações. <br />
+8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
 
 #### C02 - Sugerir Cupom
 
@@ -44,13 +44,13 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-8. O planejamento possui um passo a passo desnecessário.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+8 - O planejamento possui um passo a passo desnecessário.
 
 #### Possíveis soluções
 
-5. Colocar o passo a passo do planejamento na aba de ações
-8. Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
+5 - Colocar o passo a passo do planejamento na aba de ações. <br />
+8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
 
 #### C03 - Sugerir um tópico no fórum
 
@@ -68,13 +68,13 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-8. O planejamento possui um passo a passo desnecessário.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+8 - O planejamento possui um passo a passo desnecessário.
 
 #### Possíveis soluções
 
-5. Colocar o passo a passo do planejamento na aba de ações
-8. Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
+5 - Colocar o passo a passo do planejamento na aba de ações. <br />
+8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
 
 #### C04 - Fazer login
 
@@ -92,13 +92,13 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-8. O planejamento possui um passo a passo desnecessário.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+8 - O planejamento possui um passo a passo desnecessário.
 
 #### Possíveis soluções
 
-5. Inverter os campos de ação e planejamento
-8. Inverter os campos de ação e planejamento
+5 - Inverter os campos de ação e planejamento. <br />
+8 - Inverter os campos de ação e planejamento.
 
 #### C05 - Criar conta
 
@@ -116,15 +116,15 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-8. O planejamento possui um passo a passo desnecessário.
-9. Os eventos estão dispostos na tabela de uma outra forma.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+8 - O planejamento possui um passo a passo desnecessário. <br />
+9 - Os eventos estão dispostos na tabela de uma outra forma.
 
 #### Possíveis soluções
 
-5. Inverter os campos de ação e planejamento
-8. Inverter os campos de ação e planejamento
-9. Colocar os eventos na forma descrita pela tabela utilizada como molde.
+5 - Inverter os campos de ação e planejamento. <br />
+8 - Inverter os campos de ação e planejamento. <br />
+9 - Colocar os eventos na forma descrita pela tabela utilizada como molde.
 
 #### C06 - Alterar própria senha
 
@@ -142,13 +142,13 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-9. Os eventos estão dispostos na tabela de uma outra forma.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+9 - Os eventos estão dispostos na tabela de uma outra forma.
 
 #### Possíveis soluções
 
-5. Documentar o passo a passo de como é feita a alteração de senha.
-9. Colocar os eventos na forma descrita pela tabela utilizada como molde.
+5 - Documentar o passo a passo de como é feita a alteração de senha. <br />
+9 - Colocar os eventos na forma descrita pela tabela utilizada como molde.
 
 #### C07 - Visualizar oferta
 
@@ -180,13 +180,13 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-8. O planejamento possui um passo a passo desnecessário.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+8 - O planejamento possui um passo a passo desnecessário.
 
 #### Possíveis soluções
 
-5. Colocar o passo a passo do planejamento na aba de ações
-8. Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
+5 - Colocar o passo a passo do planejamento na aba de ações. <br />
+8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
 
 #### C09 - Pesquisar uma oferta
 
@@ -204,13 +204,13 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-8. O planejamento possui um passo a passo desnecessário.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+8 - O planejamento possui um passo a passo desnecessário.
 
 #### Possíveis soluções
 
-5. Colocar o passo a passo do planejamento na aba de ações
-8. Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
+5 - Colocar o passo a passo do planejamento na aba de ações. <br />
+8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
 
 #### C10 - Pesquisar um cupom
 
@@ -242,13 +242,13 @@
 
 #### Problemas 
 
-5. As ações não mostram um passo a passo de como realizar a tarefa.
-8. O planejamento possui um passo a passo desnecessário.
+5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
+8 - O planejamento possui um passo a passo desnecessário.
 
 #### Possíveis soluções
 
-5. Colocar o passo a passo do planejamento na aba de ações
-8. Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
+5 - Colocar o passo a passo do planejamento na aba de ações. <br />
+8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
 
 #### C12 - Priorizar ofertas listadas
 
@@ -421,11 +421,11 @@
 
 #### Problemas 
 
-1. O título não tem sentido semântico.
+1 - O título não tem sentido semântico.
 
 #### Possíveis soluções
 
-1. Alterar o título para "Curtir uma oferta".
+1 - Alterar o título para "Curtir uma oferta".
 
 #### C24 - Validar cupom
 
@@ -457,11 +457,11 @@
 
 #### Problemas 
 
-7. A avaliação não descreve um comportamento que garante o comprimento do objetivo dessa tarefa.
+7 - A avaliação não descreve um comportamento que garante o comprimento do objetivo dessa tarefa.
 
 #### Possíveis soluções
 
-7. Análisar o cenário de forma a alcançar uma avaliação que descreva corretamente o comportamento que garante o cumprimento do objetivo dessa tarefa.
+7 - Análisar o cenário de forma a alcançar uma avaliação que descreva corretamente o comportamento que garante o cumprimento do objetivo dessa tarefa.
 
 #### C26 - Visualizar notificações
 
@@ -644,4 +644,4 @@ Os erros ainda não foram corrigidos. Mas serão em breve.
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 05/11/2020 | Criação do documento de verificação dos cenários | Marcelo Victor e Thiago G.|
+| 1.0 | 05/11/2020 | Criação do documento de verificação dos cenários | Igor, Marcelo Victor e Thiago G.|

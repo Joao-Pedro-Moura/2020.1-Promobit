@@ -89,11 +89,11 @@
 
 ##### Problemas 
 
-15. Há uma contribuição OR (ou) entre o "Tempo de resposta" e seus subobjetivos: "Validação rápida" e "Reatividade". Essa relação não é boa, pois para um bom tempo de resposta seria necessário os dois e não apenas um.
+15 - Há uma contribuição OR (ou) entre o "Tempo de resposta" e seus subobjetivos: "Validação rápida" e "Reatividade". Essa relação não é boa, pois para um bom tempo de resposta seria necessário os dois e não apenas um.
 
 ##### Possíveis soluções
  
-15. Mudar a contribuição para uma de AND (e) resolve o problema.
+15 - Mudar a contribuição para uma de AND (e) resolve o problema.
 
 #### NFRF04: Manutenibilidade
 

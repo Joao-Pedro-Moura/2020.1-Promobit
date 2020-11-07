@@ -19,35 +19,35 @@ Os papéis ocupados pelos participantes da metodologia são definidos em cada do
 </p>
 
 - **Rich pictures**
-  - Autores: todos os integrantes
-  - Moderador: Igor
-  - Redator: Thiago Lopes
-  - Inspetores: Rhuan, Thiago Guilherme e Marcelo
+    - Autores: todos os integrantes
+    - Moderador: Igor
+    - Redator: Thiago Lopes
+    - Inspetores: Rhuan, Thiago Guilherme e Marcelo
 - **Casos de uso**
-  - Autores: todos os integrantes
-  - Moderador: Rhuan
-  - Redator: Marcelo
-  - Inspetores: Igor, Thiago Lopes e Thiago Guilherme
+    - Autores: todos os integrantes
+    - Moderador: Rhuan
+    - Redator: Marcelo
+    - Inspetores: Igor, Thiago Lopes e Thiago Guilherme
 - **Cenários**
-  - Autores: todos os integrantes
-  - Moderador: Thiago Lopes
-  - Redator: Rhuan
-  - Inspetores: Igor, Thiago Guilherme e Marcelo
+    - Autores: todos os integrantes
+    - Moderador: Thiago Lopes
+    - Redator: Rhuan
+    - Inspetores: Igor, Thiago Guilherme e Marcelo
 - **Léxico**
-  - Autores: todos os integrantes
-  - Moderador: Thiago Guilherme
-  - Redator: Igor
-  - Inspetores: Rhuan, Thiago Lopes e Marcelo
+    - Autores: todos os integrantes
+    - Moderador: Thiago Guilherme
+    - Redator: Igor
+    - Inspetores: Rhuan, Thiago Lopes e Marcelo
 - **NFR Framework**
-  - Autores: todos os integrantes
-  - Moderador: Marcelo
-  - Redator: Thiago Guilherme
-  - Inspetores: Igor, Marcelo e Rhuan
+    - Autores: todos os integrantes
+    - Moderador: Marcelo
+    - Redator: Thiago Guilherme
+    - Inspetores: Igor, Marcelo e Rhuan
 - **Backlog do produto**
-  - Autores: todos os integrantes
-  - Moderador: Thiago Guilherme
-  - Redator: Rhuan
-  - Inspetores: Igor, Marcelo, Rhuan, Thiago Guilherme e Thiago Lopes
+    - Autores: todos os integrantes
+    - Moderador: Thiago Guilherme
+    - Redator: Rhuan
+    - Inspetores: Igor, Marcelo, Rhuan, Thiago Guilherme e Thiago Lopes
 
 ## Referências
 
