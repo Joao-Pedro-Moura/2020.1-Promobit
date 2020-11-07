@@ -179,7 +179,7 @@
 
 ### NFRFs
 
-| Rich Picture | Porcentagem de sucesso |
+| NFRF | Porcentagem de sucesso |
 |:--:|:--:|
 | NFRF Geral | 100% |
 | NFRF01 | 100% |
