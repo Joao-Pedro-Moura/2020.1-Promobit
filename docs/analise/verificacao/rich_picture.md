@@ -34,11 +34,11 @@
 | 9 | Os atores são bem definidos? | ✔ |
 | 10 | A ortografia está correta? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 7 - O usuário é o elemento com foco central no Rich Picture, fazendo com que possa haver confusão.
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 7 - Reestruturar o Rich Picture de forma com que o elemento "oferta" seja o foco central do diagrama.
 
@@ -87,13 +87,13 @@
 | 9 | Os atores são bem definidos? | ✔ |
 | 10 | A ortografia está correta? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 4 - Um elemento descenessário sem nome polui o Rich Picture, fazendo com que possa haver confusão. <br />
 6 - A seta que conecta o elemento "fórum" ao elemento "usuário" está diposta de forma equivocada. <br />
 7 - O elemento fórum não está no ponto central do Rich Picture, fazendo com que possa haver confusão.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 4 - Retirar o elemento desnecessário para tornar o Rich Picture mais limpo e de fácil compreensão. <br />
 6 - Inverter a posição da seta. <br />

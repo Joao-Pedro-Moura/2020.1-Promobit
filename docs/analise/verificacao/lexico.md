@@ -248,7 +248,7 @@
 | 9 | Possui noção correta? | ✔ |
 | 10 | A ortografia está correta? | ✖ |
 
-##### Problemas 
+##### Problemas
 
 10 - "Um usuário bloquea outro usuário [...]" o verbo bloquear se encontra escrito errado.
 

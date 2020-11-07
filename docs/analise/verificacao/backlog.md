@@ -58,11 +58,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 8 - Falta coesão em "acompanhar as oferta publicadas".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 8 - Mudar para "acompanhar as ofertas publicadas".
 
@@ -114,11 +114,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✖ |
 
-#### Problemas 
+##### Problemas 
 
 11 - O objetivo não é coerente com a razão.
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 11 - Mudar para "Eu, como um usuário, desejo alterar foto de perfil para que eu consiga atualizar minha foto".
 
@@ -170,11 +170,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 11 - A razão está muito informal e não descritiva por conta do "pertubado".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 11 - Mudar para "Eu, como um usuário, desejo bloquear outro usuário para que eu não me sinta incomodado".
 
@@ -194,11 +194,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - A história de usuário não soa agradável devido a repetição de "um usuário".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 - Mudar para "Eu, como um usuário, desejo visualizar comentários de um outro usuário para que eu consiga visualizar seus interesses".
 
@@ -218,11 +218,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - A história de usuário não soa agradável devido a repetição de "um usuário".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 - Mudar para "Eu, como um usuário, desejo visualizar medalhas de um outro usuário para que eu consiga visualizar seu progresso".
 
@@ -242,11 +242,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✖ |
 
-#### Problemas 
+##### Problemas 
 
 1 e 11 - A história de usuário não deixa claro qual conhecimento é adquirido.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 1 e 11 - Mudar para "Eu, como um usuário, desejo visualizar cupons de um outro usuário para que eu consiga descobrir e utilizar novos cupons, e também visualizar as contribuições do mesmo".
 
@@ -266,11 +266,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - A história de usuário não soa agradável devido a repetição desnecessária de "um usuário".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 - Mudar para "Eu, como um usuário, desejo visualizar tópicos do fórum de um outro usuário para que eu consiga visualizar os tópicos que foram criados por ele".
 
@@ -290,11 +290,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - A história de usuário não soa agradável devido a repetição desnecessária da palavra "usuário".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 - Mudar para "Eu, como um usuário, desejo visualizar quem um usuário segue para que eu consiga saber mais sobre seu círculo social".
 
@@ -314,11 +314,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - A história de usuário não soa agradável devido a repetição desnecessária da palavra "usuário".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 - Mudar para "Eu, como um usuário, desejo visualizar seguidores de um usuário para que eu consiga saber mais sobre seu círculo social".
 
@@ -338,11 +338,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✖ |
 
-#### Problemas 
+##### Problemas 
 
 5 e 11 - A história de usuário não soa agradável e não é coerente devido a frase "desativar própria conta".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 e 11 - Mudar para "Eu, como um usuário, desejo desativar minha conta de usuário para que eu consiga apagar meus registros da aplicação".
 
@@ -362,11 +362,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✖ |
 
-#### Problemas 
+##### Problemas 
 
 5 e 11 - A história de usuário não soa agradável e não é coerente devido a frase "alterar próprio nome".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 e 11 - Mudar para "Eu, como um usuário, desejo alterar meu nome de usuário para que eu consiga melhorar as minhas informações".
 
@@ -386,11 +386,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - A história de usuário não soa agradável devido a repetição desnecessária da palavra "usuários".
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 - Mudar para "Eu, como um usuário, desejo visualizar perfil de outros usuários para que eu consiga interagir com eles"
 
@@ -742,12 +742,12 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 9 - O critério de aceitação "Deve ter um icone indicando que a oferta é valida" não é coerente.<br/>
 9 - Ausência de critérios de aceitação.
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 9 - Alterar para "Deve ser listado apenas as ofertas válidas".<br/>
 9 - Deve haver um serviço automático de validação.
@@ -784,12 +784,12 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 9 - O critério de aceitação "Deve ter um icone indicando que a oferta é segura" não é coerente.<br/>
 9 - Ausência de critérios de aceitação.
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 9 - Alterar para "Deve ser listado apenas as ofertas seguras."<br/>
 9 - Deve haver um serviço automático de válidar se a oferta é segura.
@@ -826,12 +826,12 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - O uso de linguagem não é agradável ao público.<br/>
 9 - A tabela de "Critérios de aceitação" apresenta erros de estrutura.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 e 9 - Corrigir para "desejo aprender a sugerir oferta facilmente para que eu consiga sugeri-las mais rapidamente".
 
@@ -851,12 +851,12 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - o uso de linguagem não é agradável ao público.<br/>
 8 - na frase "desejo visualizar cupom para que eu consiga utilizar o cupom" há erros de ortografia.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 e 8 - Corrigir para "desejo visualizar um cupom para que eu consiga utilizá-lo".
 
@@ -876,12 +876,12 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - o uso de linguagem não é agradável ao público.<br/>
 8 - na frase "desejo sugerir cupom para que eu consiga agregar um cupom ao sistema" há erros de ortografia.
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 5 e 8 - Corrigir para "desejo sugerir um cupom para que eu consiga agregá-lo ao sistema".
 
@@ -901,11 +901,11 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - o uso de linguagem não é agradável ao público na frase "desejo filtrar cupons buscados para que eu consiga conseguir ajustar os cupons que recebo de acordo com minhas preferências".
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Corrigir para "desejo filtrar cupons buscados para que eu consiga ajustá-los de acordo com minhas preferências".
 
@@ -925,12 +925,12 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - o uso de linguagem não é agradável ao público.<br/>
 8 - na frase "desejo pesquisar cupom para que eu consiga achar um determinado cupom" há erros de ortografia.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 e 8 - Corrigir para "desejo pesquisar um cupom para que eu consiga encontrá-lo".
 
@@ -950,12 +950,12 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 5 - o uso de linguagem não é agradável ao público.<br/>
 8 - na frase "desejo favoritar cupom para que eu consiga facilitar o acesso ao mesmo" há erros de ortografia.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 e 8- Corrigir para "desejo favoritar um cupom para que eu consiga facilitar o acesso ao mesmo".
 
@@ -1007,12 +1007,12 @@ Foi notado que o épico 2 (EP02) estava escrito como "Conta de usuário", porém
 | 10 | Possui ator coerente? | ✔ |
 | 11 | A história de usuário é coerente? | ✔ |
 
-#### Problemas 
+##### Problemas 
 
 9 - O critério de aceitação "Deve ter um icone de validação do cupom" não é coerente.<br/>
 9 - Ausência de critérios de aceitação.
 
-#### Possíveis soluções
+##### Possíveis soluções
  
 9 - Alterar para "Deve ser listado apenas os cupons válidos.<br/>
 9 - Deve haver um serviço automático de validação.

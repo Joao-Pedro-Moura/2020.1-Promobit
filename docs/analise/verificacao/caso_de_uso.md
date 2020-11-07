@@ -25,11 +25,11 @@
 
 ##### Problemas
 
-9- O verbo "inserir" não está no infinitivo no diagrama.
+9 - O verbo "inserir" não está no infinitivo no diagrama.
 
 ##### Possíveis soluções
 
-9- Corrigir a conjugação do verbo no diagrama.
+9 - Corrigir a conjugação do verbo no diagrama.
 
 #### UC02: Sugerir cupom
 
@@ -51,10 +51,10 @@
 | 14 | A tabela possui consistência e padrão? | ✔ |
 
 ##### Problemas
-11- No diagrama, existe um erro de ortografia na palavra "Motrar".
+11 - No diagrama, existe um erro de ortografia na palavra "Motrar".
 
 ##### Possíveis soluções
-11- Substituir, a palavra "Motrar" por "Mostrar" no diagrama.
+11 - Substituir, a palavra "Motrar" por "Mostrar" no diagrama.
 
 #### UC03: Sugerir tópico no forum
 
@@ -76,10 +76,10 @@
 | 14 | A tabela possui consistência e padrão? | ✖ |
 
 ##### Problemas
-14- Na tabela, o FP02 está disposto no campo errado.
+14 - Na tabela, o FP02 está disposto no campo errado.
 
 ##### Possíveis soluções
-14- Colocar o FP02 no campo certo da tabela
+14 - Colocar o FP02 no campo certo da tabela
 
 #### UC04: Configurações
 
@@ -101,10 +101,10 @@
 | 14 | A tabela possui consistência e padrão? | ✖ |
 
 ##### Problemas
-14- No fluxo, alternativo, o FA05 não está separado do FA06, como no restante dos FAs.
+14 - No fluxo, alternativo, o FA05 não está separado do FA06, como no restante dos FAs.
 
 ##### Possíveis soluções
-14- Separar o FA05 e o FA06 da mesma forma que os outros fluxos alternativos foram separados.
+14 - Separar o FA05 e o FA06 da mesma forma que os outros fluxos alternativos foram separados.
 
 #### UC05: Pesquisar oferta
 
@@ -184,11 +184,11 @@
 
 ##### Problemas
 
-11- No fluxo alternativo 3 (FA3), a palavra "compartilhar" não está disposta entre áspas corretamente
+11 - No fluxo alternativo 3 (FA3), a palavra "compartilhar" não está disposta entre áspas corretamente
 
 ##### Possíveis soluções
 
-11- Corrigir a disposição das áspas na palavra "compartilhar" no fluxo alternativo 3 (FA3)
+11 - Corrigir a disposição das áspas na palavra "compartilhar" no fluxo alternativo 3 (FA3)
 
 #### UC09: Lista de Desejos
 

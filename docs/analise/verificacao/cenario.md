@@ -18,12 +18,12 @@
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 8 - O planejamento possui um passo a passo desnecessário.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Colocar o passo a passo do planejamento na aba de ações. <br />
 8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
@@ -42,12 +42,12 @@
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 8 - O planejamento possui um passo a passo desnecessário.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Colocar o passo a passo do planejamento na aba de ações. <br />
 8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
@@ -66,12 +66,12 @@
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 8 - O planejamento possui um passo a passo desnecessário.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Colocar o passo a passo do planejamento na aba de ações. <br />
 8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
@@ -90,12 +90,12 @@
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 8 - O planejamento possui um passo a passo desnecessário.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Inverter os campos de ação e planejamento. <br />
 8 - Inverter os campos de ação e planejamento.
@@ -114,13 +114,13 @@
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✖ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 8 - O planejamento possui um passo a passo desnecessário. <br />
 9 - Os eventos estão dispostos na tabela de uma outra forma.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Inverter os campos de ação e planejamento. <br />
 8 - Inverter os campos de ação e planejamento. <br />
@@ -140,12 +140,12 @@
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✖ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 9 - Os eventos estão dispostos na tabela de uma outra forma.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Documentar o passo a passo de como é feita a alteração de senha. <br />
 9 - Colocar os eventos na forma descrita pela tabela utilizada como molde.
@@ -178,12 +178,12 @@
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 8 - O planejamento possui um passo a passo desnecessário.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Colocar o passo a passo do planejamento na aba de ações. <br />
 8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
@@ -202,12 +202,12 @@
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 8 - O planejamento possui um passo a passo desnecessário.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Colocar o passo a passo do planejamento na aba de ações. <br />
 8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
@@ -240,12 +240,12 @@
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 5 - As ações não mostram um passo a passo de como realizar a tarefa. <br />
 8 - O planejamento possui um passo a passo desnecessário.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 5 - Colocar o passo a passo do planejamento na aba de ações. <br />
 8 - Apagar o passo a passo e colocar o texto do campo ação no fim do texto do campo planejamento.
@@ -419,11 +419,11 @@
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 1 - O título não tem sentido semântico.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 1 - Alterar o título para "Curtir uma oferta".
 
@@ -455,11 +455,11 @@
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
 | 9 | Os eventos estão dispostos da forma proposta? | ✔ | 
 
-#### Problemas 
+##### Problemas 
 
 7 - A avaliação não descreve um comportamento que garante o comprimento do objetivo dessa tarefa.
 
-#### Possíveis soluções
+##### Possíveis soluções
 
 7 - Análisar o cenário de forma a alcançar uma avaliação que descreva corretamente o comportamento que garante o cumprimento do objetivo dessa tarefa.
 
