@@ -335,7 +335,7 @@
 
 ### Rich Pictures
 
-| Rich Picture | Porcentagem de sucesso |
+| Léxico | Porcentagem de sucesso |
 |:--:|:--:|
 | L1 | 100% |
 | L2 | 80% |
