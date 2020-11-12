@@ -65,7 +65,7 @@
 
 ##### Possíveis soluções
  
-3 - Substituir fator por objeto ou explicar melhor doque se trata este fator.
+3 - Substituir fator por objeto ou explicar melhor do que se trata esse fator.
 
 #### L4 - **Lista de desejos**
 
@@ -374,7 +374,7 @@
 
 ## 3. Acompanhamento
 
-Os erros ainda não foram corrigidos. Mas serão em breve.
+Todos os erros identificados foram devidamente corrigidos.
 
 ## 4. Referências
 
@@ -382,8 +382,9 @@ Os erros ainda não foram corrigidos. Mas serão em breve.
 
 >MELO, Silvana. "Inspeção de software". Instituto de Computação e Matemática Computacional, Universidade de São Paulo.
 
-## Versionamento
+## Versionamento 
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 06/11/2020 | Criação do documento de verificação dos Léxicos | Marcelo Victor, Rhuan Carlos e Thiago Lopes |
+| 1.1 | 12/11/2020 | Atualização no status de acompanhamento | Thiago Lopes |
