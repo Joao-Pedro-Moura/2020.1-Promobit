@@ -42,13 +42,13 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ----- | ------- | --------- |
-| Objeto | Cupom promocional disponibilizado por uma das lojas parceiras, validado pelo sistema | O ator pode pegar o cupom e utiliza-lo nas compras que são inclusas pelo cupom | - |
+| Objeto | Cupom promocional disponibilizado por uma das lojas parceiras, validado pelo sistema | O ator pode pegar o cupom e utilizá-lo nas compras que são inclusas pelo cupom | Voucher |
 
 #### L3 - **Curtir**
 
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ----- | ------- | --------- |
-| Verbo | Forma de o usuário enaltecer uma oferta ou algum tópico | O usuário tem a liberdade de curtir algo que gostou e isso pode gerar uma maior visibilidade para algum fator | Gostar, Adorar, Dar *like* |
+| Verbo | Forma de o usuário enaltecer uma oferta ou algum tópico | O usuário tem a liberdade de curtir algo que gostou, o que pode dar mais engajamento ao que foi gostado pelo mesmo, seja um comentário, uma oferta, um tópico no fórum, etc. | Gostar, Adorar, Dar *like* |
 
 #### L4 - **Lista de desejos**
 
@@ -66,7 +66,7 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ----- | ------- | --------- |
-| Verbo | Forma em que o usuário propor alguma oferta ou cupom para o sistema | A sua sugestão pode ser futuramente publicada | Propor e sugestionar |
+| Verbo | Forma em que o usuário propõe alguma oferta ou cupom para o sistema | A sua sugestão pode ser futuramente publicada | Propor e sugestionar |
 
 #### L7 - **Medalha**
 
@@ -102,7 +102,7 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ----- | ------- | --------- |
-| Verbo | Possibilidade do usuário denunciar uma oferta, cupom ou usuário | O(a) sujeito, oferta, ou cupom será reportado(a) para o sistema, o que pode trazer consequências negativas | Acusar, culpar e denunciar |
+| Verbo | Possibilidade do usuário denunciar uma oferta, cupom ou usuário | O(a) sujeito, oferta, ou cupom será reportado(a) para o sistema, fazendo com que os administradores possam verificar se existe algum problema com o que foi denunciado (cupom inválido, oferta expirada, usuário tóxico, etc.) | Acusar, culpar e denunciar |
 
 #### L13 - **Comentar**
 
@@ -114,7 +114,7 @@ Utilizaremos como base o modelo de tabela abaixo:
 
 | Classificação | Noção | Impacto | Sinônimos |
 | ------------- | ----- | ------- | --------- |
-| Verbo | Um usuário bloquea outro usuário quando não deseja visualizar as atividades dele | Não receber as ofertas e cupons, não ver as discussões adicionadas no fórum e no blog pelo usuário bloqueado | - |
+| Verbo | Um usuário bloqueia outro usuário quando não deseja visualizar as atividades dele | Não receber as ofertas e cupons, não ver as discussões adicionadas no fórum e no blog pelo usuário bloqueado | - |
 
 #### L15 - **Barra de busca**
 

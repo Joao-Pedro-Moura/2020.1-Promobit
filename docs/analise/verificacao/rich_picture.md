@@ -144,7 +144,7 @@
 
 ## 3. Acompanhamento
 
-Os erros ainda não foram corrigidos. Mas serão em breve.
+Até o momento, a maior parte dos erros foi corrigida.
 
 ## 4. Referências
 
@@ -157,3 +157,4 @@ Os erros ainda não foram corrigidos. Mas serão em breve.
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 04/11/2020 | Criação do documento de verificação dos rich pictures | Igor, Rhuan, Thiago G., Thiago L. |
+| 1.1 | 12/11/2020 | Atualização no status de acompanhamento | Thiago Lopes |

@@ -266,10 +266,11 @@
 
 ## 3. Acompanhamento
 
-Os erros ainda não foram corrigidos. Mas serão em breve.
+Grande parte dos erros já foram corrigidos.
 
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 04/11/2020 | Criação do documento de backlog de produto | Igor, Thiago Lopes e Thiago Guilherme |
+| 1.1 | 12/11/2020 | Atualização no status de acompanhamento | Thiago Lopes |

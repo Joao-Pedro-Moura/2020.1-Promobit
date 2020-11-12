@@ -12,7 +12,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
@@ -36,7 +36,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
@@ -60,7 +60,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
@@ -84,7 +84,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
@@ -108,7 +108,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
@@ -134,7 +134,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -158,7 +158,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -172,7 +172,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
@@ -196,7 +196,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
@@ -220,7 +220,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -234,7 +234,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✖ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✖ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✖ |
@@ -258,7 +258,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -272,7 +272,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -286,7 +286,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -300,7 +300,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -314,7 +314,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -328,7 +328,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -342,7 +342,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -356,7 +356,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -370,7 +370,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -384,7 +384,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -398,7 +398,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -413,7 +413,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -435,7 +435,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -449,7 +449,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✖ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -471,7 +471,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -485,7 +485,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -499,7 +499,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -513,7 +513,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -527,7 +527,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -541,7 +541,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -555,7 +555,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -569,7 +569,7 @@
 | 2 | O objetivo é claro? | ✔ |
 | 3 | O ambiente contextualiza o cenário? | ✔ |
 | 4 | Os atores foram listados de forma correta? | ✔ |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | ✔ |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | ✔ |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | ✔ |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | ✔ |
 | 8 | O planejamento induz a realização do objetivo? | ✔ |
@@ -624,7 +624,7 @@
 | 2 | O objetivo é claro? | 100% |
 | 3 | O ambiente contextualiza o cenário? | 100% |
 | 4 | Os atores foram listados de forma correta? | 100% |
-| 5 | As ações guia o ator de forma a realizar a tarefa com sucesso? | 73% |
+| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? | 73% |
 | 6 | Caso exista, os eventos estão condizentes com o objetivo? | 100% |
 | 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? | 97% |
 | 8 | O planejamento induz a realização do objetivo? | 76% |
@@ -645,3 +645,4 @@ Os erros ainda não foram corrigidos. Mas serão em breve.
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 05/11/2020 | Criação do documento de verificação dos cenários | Igor, Marcelo Victor e Thiago G.|
+| 1.1 | 12/11/2020 | Correções na ortografia | Thiago Lopes |
