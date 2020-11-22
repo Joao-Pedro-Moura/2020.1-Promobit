@@ -6,7 +6,7 @@
 
 ## Legenda
 
-Classificação:
+### Classificação
 
 **Ambiental:** congrega informações oriundas do contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido;
 
@@ -16,7 +16,7 @@ Classificação:
 
 **Desenvolvimento:** abarca informações relacionadas aos diversos artefatos gerados no processo de desen volvimento;
 
-Elos:
+### Elos
 
 **Satisfação:** indica que a classe de origem tem dependência de satisfação com classe de destino;
 
