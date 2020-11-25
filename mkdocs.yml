@@ -42,6 +42,9 @@ pages:
         - Informal: analise/validacao/informal.md
         - Protótipo: analise/validacao/prototipo.md
         - Viewpoint: analise/validacao/viewpoint.md
+  - Pós rastreabilidade:
+    - Matriz Forward-From: pos_rastreabilidade/foward_from.md
+    - Matriz Backward-From: pos_rastreabilidade/backward_from.md
   - Apresentações: apresentacoes.md
   # sempre a última
   - Atas:
