@@ -19,3 +19,7 @@
 ## 5ª Apresentação - Análise: Verificação e Validação
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s7ad6vfkji4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 6ª Apresentação - Apresentação Final
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S2RnCM_3TBo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
