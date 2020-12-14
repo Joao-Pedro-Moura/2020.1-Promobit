@@ -1,0 +1,1545 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.7">
+    
+    
+      
+        <title>Especificação suplementar - Promobit</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.19753c6b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.196e0c26.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+      
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#especificacao-suplementar" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="../.." title="Promobit" class="md-header-nav__button md-logo" aria-label="Promobit">
+      
+  <img src="../../assets/icons/monetization_on.png" alt="logo">
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Promobit
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Especificação suplementar
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Promobit" class="md-nav__button md-logo" aria-label="Promobit">
+      
+  <img src="../../assets/icons/monetization_on.png" alt="logo">
+
+    </a>
+    Promobit
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." class="md-nav__link">
+      Sobre
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" >
+    <label class="md-nav__link" for="nav-3">
+      Pré-rastreabilidade
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Pré-rastreabilidade" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        <span class="md-nav__icon md-icon"></span>
+        Pré-rastreabilidade
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../pre_rastreabilidade/rich_pictures/" class="md-nav__link">
+      Rich pictures
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" >
+    <label class="md-nav__link" for="nav-4">
+      Elicitação de requisitos
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Elicitação de requisitos" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        <span class="md-nav__icon md-icon"></span>
+        Elicitação de requisitos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/personas/" class="md-nav__link">
+      Personas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/introspeccao/" class="md-nav__link">
+      Introspecção
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/questionario/" class="md-nav__link">
+      Questionário
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/brainstorming/" class="md-nav__link">
+      Brainstorming
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/requisitos/" class="md-nav__link">
+      Todos os requisitos
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+    <label class="md-nav__link" for="nav-5">
+      Priorização de requisitos
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Priorização de requisitos" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        <span class="md-nav__icon md-icon"></span>
+        Priorização de requisitos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../priorizacao/first_thing_first/" class="md-nav__link">
+      First Things First
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../priorizacao/moscow/" class="md-nav__link">
+      MoSCoW
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" checked>
+    <label class="md-nav__link" for="nav-6">
+      Modelagem
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        <span class="md-nav__icon md-icon"></span>
+        Modelagem
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../caso_de_uso/" class="md-nav__link">
+      Casos de uso
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cenarios/" class="md-nav__link">
+      Cenários
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../lexico/" class="md-nav__link">
+      Léxico
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Especificação suplementar
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
+      Especificação suplementar
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-proposito" class="md-nav__link">
+    1.1 Propósito
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-escopo" class="md-nav__link">
+    1.2 Escopo
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-descricao-geral" class="md-nav__link">
+    2. Descrição geral
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Descrição geral">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-funcoes-do-produto" class="md-nav__link">
+    2.1 Funções do produto
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-caracteristicas-do-usuario" class="md-nav__link">
+    2.2 Características do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-restricoes" class="md-nav__link">
+    2.3 Restrições
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#24-suposicoes-e-dependencias" class="md-nav__link">
+    2.4 Suposições e dependências
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#25-reparticao-de-requisitos" class="md-nav__link">
+    2.5 Repartição de Requisitos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-recursos-do-sistema-e-requisitos" class="md-nav__link">
+    3. Recursos do sistema e requisitos
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Recursos do sistema e requisitos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-requisitos-funcionais" class="md-nav__link">
+    3.1 Requisitos funcionais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-requisitos-de-interface-externa" class="md-nav__link">
+    3.2 Requisitos de interface externa
+  </a>
+  
+    <nav class="md-nav" aria-label="3.2 Requisitos de interface externa">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#321-interfaces-de-usuario" class="md-nav__link">
+    3.2.1 Interfaces de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#322-interface-de-hardware" class="md-nav__link">
+    3.2.2. Interface de Hardware
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#323-interface-de-software" class="md-nav__link">
+    3.2.3 Interface de Software
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#324-interface-de-comunicacao" class="md-nav__link">
+    3.2.4 Interface de Comunicação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-requisitos-de-performance" class="md-nav__link">
+    3.3 Requisitos de performance
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-requisitos-de-usabilidade" class="md-nav__link">
+    3.4 Requisitos de Usabilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-atributos-do-sistema-de-software" class="md-nav__link">
+    3.5 Atributos do sistema de software
+  </a>
+  
+    <nav class="md-nav" aria-label="3.5 Atributos do sistema de software">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#351-confiabilidade" class="md-nav__link">
+    3.5.1 Confiabilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#352-disponibilidade" class="md-nav__link">
+    3.5.2 Disponibilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#353-seguranca" class="md-nav__link">
+    3.5.3 Segurança
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#354-manutenibilidade" class="md-nav__link">
+    3.5.4 Manutenibilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#355-portabilidade" class="md-nav__link">
+    3.5.5 Portabilidade
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../nfr_framework/" class="md-nav__link">
+      NFR Framework
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../backlog_do_produto/" class="md-nav__link">
+      Backlog do produto
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7" >
+    <label class="md-nav__link" for="nav-7">
+      Análise
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        <span class="md-nav__icon md-icon"></span>
+        Análise
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-1" type="checkbox" id="nav-7-1" >
+    <label class="md-nav__link" for="nav-7-1">
+      Verificação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+      <label class="md-nav__title" for="nav-7-1">
+        <span class="md-nav__icon md-icon"></span>
+        Verificação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/rich_picture/" class="md-nav__link">
+      Rich pictures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/caso_de_uso/" class="md-nav__link">
+      Casos de Uso
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/cenario/" class="md-nav__link">
+      Cenários
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/lexico/" class="md-nav__link">
+      Léxicos
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/nfr_framework/" class="md-nav__link">
+      NFR Framework
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/backlog/" class="md-nav__link">
+      Backlog de Produto
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-2" type="checkbox" id="nav-7-2" >
+    <label class="md-nav__link" for="nav-7-2">
+      Validação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Validação" data-md-level="2">
+      <label class="md-nav__title" for="nav-7-2">
+        <span class="md-nav__icon md-icon"></span>
+        Validação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/validacao/informal/" class="md-nav__link">
+      Informal
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/validacao/prototipo/" class="md-nav__link">
+      Protótipo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/validacao/viewpoint/" class="md-nav__link">
+      Viewpoint
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8" >
+    <label class="md-nav__link" for="nav-8">
+      Pós rastreabilidade
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Pós rastreabilidade" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
+        <span class="md-nav__icon md-icon"></span>
+        Pós rastreabilidade
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../pos_rastreabilidade/foward_from/" class="md-nav__link">
+      Matriz Forward-From
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../pos_rastreabilidade/backward_from/" class="md-nav__link">
+      Matriz Backward-From
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../apresentacoes/" class="md-nav__link">
+      Apresentações
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-10" type="checkbox" id="nav-10" >
+    <label class="md-nav__link" for="nav-10">
+      Atas
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas" data-md-level="1">
+      <label class="md-nav__title" for="nav-10">
+        <span class="md-nav__icon md-icon"></span>
+        Atas
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-13-09-2020/" class="md-nav__link">
+      13/09/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-21-09-2020/" class="md-nav__link">
+      21/09/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-30-09-2020/" class="md-nav__link">
+      30/09/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-19-10-2020/" class="md-nav__link">
+      19/10/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-04-11-2020/" class="md-nav__link">
+      04/11/2020
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-proposito" class="md-nav__link">
+    1.1 Propósito
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-escopo" class="md-nav__link">
+    1.2 Escopo
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-descricao-geral" class="md-nav__link">
+    2. Descrição geral
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Descrição geral">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#21-funcoes-do-produto" class="md-nav__link">
+    2.1 Funções do produto
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#22-caracteristicas-do-usuario" class="md-nav__link">
+    2.2 Características do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#23-restricoes" class="md-nav__link">
+    2.3 Restrições
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#24-suposicoes-e-dependencias" class="md-nav__link">
+    2.4 Suposições e dependências
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#25-reparticao-de-requisitos" class="md-nav__link">
+    2.5 Repartição de Requisitos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-recursos-do-sistema-e-requisitos" class="md-nav__link">
+    3. Recursos do sistema e requisitos
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Recursos do sistema e requisitos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#31-requisitos-funcionais" class="md-nav__link">
+    3.1 Requisitos funcionais
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#32-requisitos-de-interface-externa" class="md-nav__link">
+    3.2 Requisitos de interface externa
+  </a>
+  
+    <nav class="md-nav" aria-label="3.2 Requisitos de interface externa">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#321-interfaces-de-usuario" class="md-nav__link">
+    3.2.1 Interfaces de Usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#322-interface-de-hardware" class="md-nav__link">
+    3.2.2. Interface de Hardware
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#323-interface-de-software" class="md-nav__link">
+    3.2.3 Interface de Software
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#324-interface-de-comunicacao" class="md-nav__link">
+    3.2.4 Interface de Comunicação
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#33-requisitos-de-performance" class="md-nav__link">
+    3.3 Requisitos de performance
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#34-requisitos-de-usabilidade" class="md-nav__link">
+    3.4 Requisitos de Usabilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#35-atributos-do-sistema-de-software" class="md-nav__link">
+    3.5 Atributos do sistema de software
+  </a>
+  
+    <nav class="md-nav" aria-label="3.5 Atributos do sistema de software">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#351-confiabilidade" class="md-nav__link">
+    3.5.1 Confiabilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#352-disponibilidade" class="md-nav__link">
+    3.5.2 Disponibilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#353-seguranca" class="md-nav__link">
+    3.5.3 Segurança
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#354-manutenibilidade" class="md-nav__link">
+    3.5.4 Manutenibilidade
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#355-portabilidade" class="md-nav__link">
+    3.5.5 Portabilidade
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="especificacao-suplementar">Especificação Suplementar</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<p style="text-indent: 20px; text-align: justify">
+A especificação suplementar aborda os requisitos funcionais e principalmente os não funcionais do sistema, basicamente se aliando com outras técnicas de requisitos como a modelagem e a elicitação possibilitando ter uma margem mais robusta de alcançar os requisitos do sistema. Nesse contexto nós temos os atributos de qualidade do sistema, os requisitos de usabilidade, segurança, desempenho e suportabilidade, além de outros requisitos, como requisitos de compatibilidade, restrições de design, legislação associada, sistemas operacionais e ambientes.
+</p>
+
+<h3 id="11-proposito">1.1 Propósito</h3>
+<p style="text-indent: 20px; text-align: justify">
+Este documento serve para dar uma descrição detalhada dos requisitos de um software. Contém as restrições de sistema, interface, interações com aplicações externas.
+</p>
+
+<h3 id="12-escopo">1.2 Escopo</h3>
+<p style="text-indent: 20px; text-align: justify">
+O promobit é um aplicativo mobile que tem como carro chefe a exibição das ofertas e cupons de maneira dinâmica e rápida, tendo segurança e veracidade. Além disso, conta também com uma rede de interação e discussão entre usuários acerca das ofertas, cupons e tópicos tudo isso atrelado a um sistema gamificado e tudo isso contido num aplicativo grátis disponível na Play Store e na App Store.
+</p>
+
+<h2 id="2-descricao-geral">2. Descrição geral</h2>
+<h3 id="21-funcoes-do-produto">2.1 Funções do produto</h3>
+<p style="text-indent: 20px; text-align: justify">
+Com o fato de ser um aplicativo móvel os usuários vão ser capazes de buscar por produtos específicos, ofertas, cupons. Os resultados são baseados nas entradas dos usuários e contém diversos critérios de busca, filtragem e classificação. O usuário também pode se relacionar com outros usuários, discutir sobre as ofertas e cupons nos fóruns do sistema. Além do mais, pode ser notificado via <i>email</i> e/ou notificações.
+</p>
+
+<h3 id="22-caracteristicas-do-usuario">2.2 Características do usuário</h3>
+<p style="text-indent: 20px; text-align: justify">
+Assim como já listado nas personas referentes aos projeto, os usuários de maneira geral também podem ser definidos em: usuários comuns e administradores.
+<br />
+Acerca dos <b>usuários</b> são pessoas que costumam utilizar <i>e-commerce</i> e por consequente tem interesse em ficar por dentro das melhores ofertas e cupons de suas lojas virtuais favoritas. Já os <b>administradores</b> são tipos diferentes de usuário que se referem a administração do aplicativo e que tem papéis importantes quanto a segurança e veracidade das ofertas.
+</p>
+
+<h3 id="23-restricoes">2.3 Restrições</h3>
+<p style="text-indent: 20px; text-align: justify">
+As restrições se referem às necessidades de funcionamento do sistema de um modo geral, podemos definir a conexão a internet como uma restrição de funcionamento do aplicativo dado que, é inviável realizar as funções mais básicas sem conexão a rede, exemplo: atualizar lista de oferta, login, cadastro.
+</p>
+
+<h3 id="24-suposicoes-e-dependencias">2.4 Suposições e dependências</h3>
+<p style="text-indent: 20px; text-align: justify">
+O aplicativo depende de um servidor geral para o seu correto funcionamento.
+</p>
+
+<h2 id="25-reparticao-de-requisitos">2.5 Repartição de Requisitos</h2>
+<p style="text-indent: 20px; text-align: justify">
+Em caso de atraso na execução do projeto, os requisitos podem ser divididos para a próxima <i>release</i>.
+</p>
+
+<h2 id="3-recursos-do-sistema-e-requisitos">3. Recursos do sistema e requisitos</h2>
+<h3 id="31-requisitos-funcionais">3.1 Requisitos funcionais</h3>
+<p style="text-indent: 20px; text-align: justify">
+Os requisitos funcionais em sua grande maioria foram levantados em documentos anteriores.
+</p>
+
+<h3 id="32-requisitos-de-interface-externa">3.2 Requisitos de interface externa</h3>
+<h4 id="321-interfaces-de-usuario">3.2.1 Interfaces de Usuário</h4>
+<p style="text-indent: 20px; text-align: justify">
+Um usuário do aplicativo pela primeira vez irá se deparar com a interface de login e cadastro.
+<br />
+Usuários já cadastrados e/ou logados se deparam com a interface de ofertas podendo mudar por meio de botões para a interface do fórum, a interface de busca, a interface de configuração, a interface de perfil de usuário, a interface de últimos comentários, a interface de lista de desejos.
+</p>
+
+<h4 id="322-interface-de-hardware">3.2.2. Interface de Hardware</h4>
+<p style="text-indent: 20px; text-align: justify">
+O hardware deve ser capaz de lidar com a requisição de dados a partir de algum método de conexão com a internet. Essas comunicações são abstraídas para a comunicação aplicativo - servidor.
+</p>
+
+<h4 id="323-interface-de-software">3.2.3 Interface de Software</h4>
+<p style="text-indent: 20px; text-align: justify">
+A comunicação do aplicativo com seus componentes envolvem operações de leitura e escrita.
+</p>
+
+<h4 id="324-interface-de-comunicacao">3.2.4 Interface de Comunicação</h4>
+<p style="text-indent: 20px; text-align: justify">
+Não é importante para o sistema pois as operações e comunicações com as diferentes partes do sistema são abstraídas.
+</p>
+
+<h3 id="33-requisitos-de-performance">3.3 Requisitos de performance</h3>
+<ul>
+<li>
+<p>Tempo de resposta: o tempo de resposta do aplicativo deve ser de no máximo 10 segundos.</p>
+</li>
+<li>
+<p>Tempo de validação automática: o sistema não deve levar mais de 1 minuto para validar uma oferta ou cupom.</p>
+</li>
+<li>
+<p>Dependabilidade do sistema: se o sistema perder a conexão o usuário deve ser informado do mesmo.</p>
+</li>
+<li>
+<p>Armazenamento: O aplicativo precisa de 20.1 megabytes de armazenamento em sistemas IOS e 28.49 em sistemas Android.</p>
+</li>
+</ul>
+<h3 id="34-requisitos-de-usabilidade">3.4 Requisitos de Usabilidade</h3>
+<p style="text-indent: 20px; text-align: justify">
+Os requisitos de usabilidade listados abaixo não são todos, consideramos também diversos princípios, como, por exemplo, as heurísticas de Nielsen (Barbosa e Silva, 2010).
+</p>
+
+<ul>
+<li>
+<p>Pesquisa proeminente: a feature buscada deve ser fácil de ser encontrada pelo usuário.</p>
+</li>
+<li>
+<p>Pesquisa intuitiva: as diferentes opções de busca devem ser evidentes, simples e fáceis de entender.</p>
+</li>
+</ul>
+<h3 id="35-atributos-do-sistema-de-software">3.5 Atributos do sistema de software</h3>
+<h4 id="351-confiabilidade">3.5.1 Confiabilidade</h4>
+<ul>
+<li>
+<p>O sistema deve assegurar a menor taxa de erro, 1 caso em 10000, possível nas buscas do usuário.</p>
+</li>
+<li>
+<p>O sistema deve assegurar a veracidade das ofertas taxa de erro: 1 caso em 100.</p>
+</li>
+</ul>
+<h4 id="352-disponibilidade">3.5.2 Disponibilidade</h4>
+<ul>
+<li>O sistema deve estar disponível preferencialmente durante o dia, tendo sua manutenção dentro de horários noturnos.</li>
+</ul>
+<h4 id="353-seguranca">3.5.3 Segurança</h4>
+<ul>
+<li>
+<p>É imprescindível que o sistema assegure os dados do usuário de forma mais eficaz possível.</p>
+</li>
+<li>
+<p>O sistema deverá informar possíveis logins indesejados na sua conta.</p>
+</li>
+<li>
+<p>O sistema não deverá permitir login com contas inexistentes.</p>
+</li>
+<li>
+<p>Se o usuário ao criar ao realizar o cadastro se deparar com um um nome de usuário em uso, o usuário deverá ser informado.</p>
+</li>
+</ul>
+<h4 id="354-manutenibilidade">3.5.4 Manutenibilidade</h4>
+<ul>
+<li>
+<p>A aplicação deve ser fácil de ser escalonada para situações de maiores usos.</p>
+</li>
+<li>
+<p>O código deve ser escrito seguindo um padrão previamente definido de modo a facilitar a implementação de novas funcionalidades.</p>
+</li>
+</ul>
+<h4 id="355-portabilidade">3.5.5 Portabilidade</h4>
+<ul>
+<li>A aplicação deve ser suportado por sistemas Android e IOS.</li>
+</ul>
+<h2 id="referencias">Referências</h2>
+<blockquote>
+<p>BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.</p>
+<p>"How to Write a Software Requirements Specification (SRS Document)". Acesso em: 7 out 2020. Disponivel em: https://www.perforce.com/blog/alm/how-write-software-requirements-specification-srs-document</p>
+<p>"Software Requirements Specification Amazing Lunch Indicator". Acesso em: 7 out 2020. Disponível em: http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf </p>
+</blockquote>
+<h2 id="versionamento">Versionamento</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Modificação</th>
+<th>Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>07/10/2020</td>
+<td>Criação do documento de especificação suplementar</td>
+<td>Rhuan carlos e Marcelo Victor</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>16/10/2020</td>
+<td>Adição de requisitos de usabilidade e correções gerais</td>
+<td>Igor Paiva e Rhuan carlos</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>25/10/2020</td>
+<td>Correções gerais advindas do feedback</td>
+<td>Todos os integrantes</td>
+</tr>
+</tbody>
+</table>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../lexico/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                Léxico
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../nfr_framework/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Próximo
+                </span>
+                NFR Framework
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/vendor.0ac82a11.min.js"></script>
+      <script src="../../assets/javascripts/bundle.f81dfb4d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../..",
+          features: [],
+          search: Object.assign({
+            worker: "../../assets/javascripts/worker/search.4ac00218.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>

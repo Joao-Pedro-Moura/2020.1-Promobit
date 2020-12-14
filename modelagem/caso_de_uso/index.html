@@ -1,0 +1,1737 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-6.1.7">
+    
+    
+      
+        <title>Casos de uso - Promobit</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.19753c6b.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.196e0c26.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+      
+  
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#casos-de-uso" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="../.." title="Promobit" class="md-header-nav__button md-logo" aria-label="Promobit">
+      
+  <img src="../../assets/icons/monetization_on.png" alt="logo">
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Promobit
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Casos de uso
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Promobit" class="md-nav__button md-logo" aria-label="Promobit">
+      
+  <img src="../../assets/icons/monetization_on.png" alt="logo">
+
+    </a>
+    Promobit
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." class="md-nav__link">
+      Sobre
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" >
+    <label class="md-nav__link" for="nav-3">
+      Pré-rastreabilidade
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Pré-rastreabilidade" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        <span class="md-nav__icon md-icon"></span>
+        Pré-rastreabilidade
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../pre_rastreabilidade/rich_pictures/" class="md-nav__link">
+      Rich pictures
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" >
+    <label class="md-nav__link" for="nav-4">
+      Elicitação de requisitos
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Elicitação de requisitos" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        <span class="md-nav__icon md-icon"></span>
+        Elicitação de requisitos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/personas/" class="md-nav__link">
+      Personas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/introspeccao/" class="md-nav__link">
+      Introspecção
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/questionario/" class="md-nav__link">
+      Questionário
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/brainstorming/" class="md-nav__link">
+      Brainstorming
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/requisitos/" class="md-nav__link">
+      Todos os requisitos
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+    <label class="md-nav__link" for="nav-5">
+      Priorização de requisitos
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Priorização de requisitos" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        <span class="md-nav__icon md-icon"></span>
+        Priorização de requisitos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../priorizacao/first_thing_first/" class="md-nav__link">
+      First Things First
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../priorizacao/moscow/" class="md-nav__link">
+      MoSCoW
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" checked>
+    <label class="md-nav__link" for="nav-6">
+      Modelagem
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        <span class="md-nav__icon md-icon"></span>
+        Modelagem
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Casos de uso
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
+      Casos de uso
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso_1" class="md-nav__link">
+    Casos de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uc01-sugerir-oferta" class="md-nav__link">
+    UC01: Sugerir oferta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc02-sugerir-cupom" class="md-nav__link">
+    UC02: Sugerir cupom
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc03-sugerir-topico-no-forum" class="md-nav__link">
+    UC03: Sugerir tópico no forum
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc04-configuracoes" class="md-nav__link">
+    UC04: Configurações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc05-pesquisar-oferta" class="md-nav__link">
+    UC05: Pesquisar oferta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc06-realizar-login" class="md-nav__link">
+    UC06: Realizar login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc07-realizar-cadastro" class="md-nav__link">
+    UC07: Realizar cadastro
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc08-interagir-com-a-oferta" class="md-nav__link">
+    UC08: Interagir com a oferta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc09-lista-de-desejos" class="md-nav__link">
+    UC09: Lista de Desejos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc10-visualizar-topico-no-forum" class="md-nav__link">
+    UC10: Visualizar tópico no forum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../cenarios/" class="md-nav__link">
+      Cenários
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../lexico/" class="md-nav__link">
+      Léxico
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../suplementar/" class="md-nav__link">
+      Especificação suplementar
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../nfr_framework/" class="md-nav__link">
+      NFR Framework
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../backlog_do_produto/" class="md-nav__link">
+      Backlog do produto
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7" >
+    <label class="md-nav__link" for="nav-7">
+      Análise
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Análise" data-md-level="1">
+      <label class="md-nav__title" for="nav-7">
+        <span class="md-nav__icon md-icon"></span>
+        Análise
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-1" type="checkbox" id="nav-7-1" >
+    <label class="md-nav__link" for="nav-7-1">
+      Verificação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+      <label class="md-nav__title" for="nav-7-1">
+        <span class="md-nav__icon md-icon"></span>
+        Verificação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/planejamento/" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/rich_picture/" class="md-nav__link">
+      Rich pictures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/caso_de_uso/" class="md-nav__link">
+      Casos de Uso
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/cenario/" class="md-nav__link">
+      Cenários
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/lexico/" class="md-nav__link">
+      Léxicos
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/nfr_framework/" class="md-nav__link">
+      NFR Framework
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/verificacao/backlog/" class="md-nav__link">
+      Backlog de Produto
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-7-2" type="checkbox" id="nav-7-2" >
+    <label class="md-nav__link" for="nav-7-2">
+      Validação
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Validação" data-md-level="2">
+      <label class="md-nav__title" for="nav-7-2">
+        <span class="md-nav__icon md-icon"></span>
+        Validação
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/validacao/informal/" class="md-nav__link">
+      Informal
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/validacao/prototipo/" class="md-nav__link">
+      Protótipo
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../analise/validacao/viewpoint/" class="md-nav__link">
+      Viewpoint
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8" >
+    <label class="md-nav__link" for="nav-8">
+      Pós rastreabilidade
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Pós rastreabilidade" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
+        <span class="md-nav__icon md-icon"></span>
+        Pós rastreabilidade
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../pos_rastreabilidade/foward_from/" class="md-nav__link">
+      Matriz Forward-From
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../pos_rastreabilidade/backward_from/" class="md-nav__link">
+      Matriz Backward-From
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../apresentacoes/" class="md-nav__link">
+      Apresentações
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-10" type="checkbox" id="nav-10" >
+    <label class="md-nav__link" for="nav-10">
+      Atas
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Atas" data-md-level="1">
+      <label class="md-nav__title" for="nav-10">
+        <span class="md-nav__icon md-icon"></span>
+        Atas
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-13-09-2020/" class="md-nav__link">
+      13/09/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-21-09-2020/" class="md-nav__link">
+      21/09/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-30-09-2020/" class="md-nav__link">
+      30/09/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-19-10-2020/" class="md-nav__link">
+      19/10/2020
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../atas/reuniao-04-11-2020/" class="md-nav__link">
+      04/11/2020
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#casos-de-uso_1" class="md-nav__link">
+    Casos de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="Casos de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uc01-sugerir-oferta" class="md-nav__link">
+    UC01: Sugerir oferta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc02-sugerir-cupom" class="md-nav__link">
+    UC02: Sugerir cupom
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc03-sugerir-topico-no-forum" class="md-nav__link">
+    UC03: Sugerir tópico no forum
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc04-configuracoes" class="md-nav__link">
+    UC04: Configurações
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc05-pesquisar-oferta" class="md-nav__link">
+    UC05: Pesquisar oferta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc06-realizar-login" class="md-nav__link">
+    UC06: Realizar login
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc07-realizar-cadastro" class="md-nav__link">
+    UC07: Realizar cadastro
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc08-interagir-com-a-oferta" class="md-nav__link">
+    UC08: Interagir com a oferta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc09-lista-de-desejos" class="md-nav__link">
+    UC09: Lista de Desejos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc10-visualizar-topico-no-forum" class="md-nav__link">
+    UC10: Visualizar tópico no forum
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="casos-de-uso">Casos de uso</h1>
+<h2 id="introducao">Introdução</h2>
+<p style="text-indent: 20px; text-align: justify">
+Um documento de caso de uso é uma metodologia que descreve como o usuário realizará uma determinada tarefa dentro do contexto de um software. Ele descreve o ponto de vista do usuário e como o sistema responde a partir de suas ações, cada caso de uso é uma sequência de passos que são descritos a partir de fluxos, que começam com um objetivo principal e terminam quando esse objetivo está realizado.
+</p>
+
+<h2 id="casos-de-uso_1">Casos de Uso</h2>
+<h3 id="uc01-sugerir-oferta">UC01: Sugerir oferta</h3>
+<p><img alt="Sugerir cupom" src="../../assets/casos_de_uso/sugerir_oferta.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1dwBC5pR36BVoyWM6lZ7Mv37wBde9F1Hf/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC01</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário sugerir uma oferta que poderá ser publica no sistema</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar logado, deve estar na seção de ofertas do sistema e deve ter o link de uma oferta</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> O ator sugere uma oferta <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma tabela de opções <br /> 3. O ator clica em sugerir oferta <br /> 4. O sistema redireciona o ator para a seção de sugerir nova oferta <br /> 5. O ator preenche os campos de "Link da oferta", "Titulo da oferta", "Preço" <br /> 6. O ator coloca uma imagem da oferta no campo de imagem <br /> 7. O ator clica no botão "Enviar oferta" <br /> 8. O sistema gera um pop-up para o autor com o feedback do envio <br /> 9. O ator clica em fechar <br /> 10. O ator é redirecionado para a aba de ofertas.</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> Fluxo de quando o ator sugere uma oferta pela primeira vez:<br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma tabela de opções <br /> 3. O ator clica em sugerir oferta <br /> 4. O sistema redireciona o ator para a seção de sugerir nova oferta <br /> 5. O ator preenche os campos de "Link da oferta", "Titulo da oferta", "Preço" <br /> 6. O ator coloca uma imagem da oferta no campo de imagem <br /> 7. O ator clica no botão "Enviar oferta" <br /> 8. O sistema gera um pop-up parabenizando o ator pela sua primeira oferta e o premia com uma medalha <br /> 9. O ator clica no botão "Fechar" <br /> 10. O sistema gera outro pop-up para o autor com o feedback do envio <br /> 11. O ator clica em fechar <br /> 12. O ator é redirecionado para a aba de ofertas. <br /><br /> <strong>FA02:</strong> Fluxo de quando o ator deseja sugerir uma oferta seguida de uma anterior <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma tabela de opções <br /> 3. O ator clica em sugerir oferta <br /> 4. O sistema redireciona o ator para a seção de sugerir nova oferta <br /> 5. O ator preenche os campos de "Link da oferta", "Titulo da oferta", "Preço" <br /> 6. O ator coloca uma imagem da oferta no campo de imagem <br /> 7. O ator clica no botão "Enviar oferta" <br /> 8. O sistema gera um pop-up para o autor com o feedback do envio <br /> 9. O ator clica em "Adicionar outra" <br /> 10. O ator é redirecionado para a aba de sugerir oferta.</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> O ator não completa os campos obrigatórios para sugerir a oferta <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma tabela de opções <br /> 3. O ator clica em sugerir oferta <br /> 4. O sistema redireciona o ator para a seção de sugerir nova oferta <br /> 5. O ator não preenche os campos de "Link da oferta", "Titulo da oferta", "Preço" <br /> 6. O ator coloca uma imagem da oferta no campo de imagem <br /> 7. O ator clica no botão "Enviar oferta" <br /> 8. O sistema gera um pop-up alertando o ator sobre a necessidade de preencher o campo obrigatório <br /><br /> <strong>FE02:</strong> Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma tabela de opções <br /> 3. O ator clica em sugerir oferta <br /> 4. O sistema gera um pop-up alertando sobre a impossíbilidade de realizar a ação <br /> 5. O ator clica no botão "ok"</td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá ter uma oferta publicada, também terá a validação do oferta e o ator terá a oferta que sugeriu no seu histórico de ofertas</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>Requisito Funcional 3 do documento contendo todos os requisitos - RF3 Sugerir oferta</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc02-sugerir-cupom">UC02: Sugerir cupom</h3>
+<p><img alt="Sugerir cupom" src="../../assets/casos_de_uso/sugerir_cupom.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1zAUoT6XMh90Hab5c4NDPnkKojwSVqCsD/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC02</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário sugerir um cupom que poderá ser publicado no sistema</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário, moderador</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar logado, deve estar na seção de "últimos cupons" e "cupons por loja" do sistema e deve ter o link e as informações de um cupom</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> O ator sugere um cupom <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema redireciona o ator para a seção de sugerir um novo cupom <br /> 5. O ator preenche os campos de "Link da cupom", "Descreva o cupom", "Loja", "Código do cupom", "Regras de aplicação" <br /> 7. O ator clica no botão "Enviar cupom" <br /> 8. O sistema gera um pop-up para o autor com o feedback do envio <br /> 9. O ator clica em fechar <br /> 10. O ator é redirecionado para a aba de cupons. <br /><br /> <strong>FP02:</strong> Moderador valida tópico no fórum <br /> 1. Moderador acessa página de submissões pendentes <br /> 2. Moderador verifica se o tópico é válido <br /> 3. Moderador aceita ou rejeita o tópico proposto</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> Fluxo de quando o ator deseja sugerir um cupom seguido de um anterior <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema redireciona o ator para a seção de sugerir um novo cupom <br /> 5. O ator preenche os campos de "Link da cupom", "Descreva o cupom", "Loja", "Código do cupom", "Regras de aplicação" <br /> 7. O ator clica no botão "Enviar cupom" <br /> 8. O sistema gera um pop-up para o autor com o feedback do envio <br /> 9. O ator clica em "Adicionar outra" <br /> 10. O ator é redirecionado para a aba de cupons.</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> O ator não completa os campos obrigatórios para sugerir o cupom <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema redireciona o ator para a seção de sugerir um novo cupom <br /> 5. O ator preenche os campos de "Link da cupom", "Descreva o cupom", "Loja", "Código do cupom", "Regras de aplicação" <br /> 7. O ator clica no botão "Enviar cupom" <br /> 8. O sistema gera um pop-up alertando o ator sobre a necessidade de preencher o campo obrigatório <br /><br /> <strong>FE02:</strong> Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator clica em sugerir cupom <br /> 4. O sistema gera um pop-up alertando sobre a impossibilidade de realizar a ação <br /> 5. O ator clica no botão "ok"</td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá ter um cupom publicado, caso esse seja válido, e o ator terá o cupom que sugeriu no seu histórico de cupons</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>Requisito Funcional 4 do documento contendo todos os requisitos - RF4 Sugerir cupom</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc03-sugerir-topico-no-forum">UC03: Sugerir tópico no forum</h3>
+<p><img alt="Pesquisar oferta" src="../../assets/casos_de_uso/sugerir_topico_forum.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1-XXfg-auieUWLq4-1gGUXKMaHHq1MWju/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC03</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário sugerir um tópico no fórum do sistema</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário, moderador</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar logado, e deve estar na seção de fórum do sistema.</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> Ator sugere um tópico no fórum <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema redireciona o ator para a seção de novo tópico no fórum <br /> 3. O ator preenche os campos de "Título do fórum", "Categoria do fórum" e "Descrição do tópico" <br /> 4. O ator clica no botão "Enviar tópico" <br /> 5. O sistema gera um pop-up para o autor com o feedback do envio <br /> 6. O ator clica em fechar <br /> 7. O ator é redirecionado para a aba de fórum <br /><br /> <strong>FP02:</strong> Moderador valida tópico no fórum <br /> 1. Moderador acessa página de submissões pendentes <br /> 2. Moderador verifica se o tópico é válido <br /> 3. Moderador aceita ou rejeita o tópico proposto</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> Ator sugere outro tópico no fórum logo após sugerir um<br /> 1. O ator clica no icone de "+" <br /> 2. O sistema redireciona o ator para a seção de novo tópico no fórum <br /> 3. O ator preenche os campos de "Título do fórum", "Categoria do fórum" e "Descrição do tópico" <br /> 4. O ator clica no botão "Enviar tópico" <br /> 5. O sistema gera um pop-up para o autor com o feedback do envio <br /> 6. O ator clica em "Adicionar outra" <br /> 7. O ator é redirecionado para a aba de sugerir oferta</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> Ator não preenche todas as informações para sugestão de tópico no fórum <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema redireciona o ator para a seção de novo tópico no fórum <br /> 3. O ator não preenche um dos campos de "Título do fórum", "Categoria do fórum" ou "Descrição do tópico" <br /> 4. O ator clica no botão "Enviar tópico" <br /> 5. O sistema alerta o autor sobre a necessidade de inserção de informações do campo obrigatório não preenchido. <br /><br /> <strong>FE02:</strong> Ator não possui conexão com a internet <br /> 1. O ator clica no icone de "+" <br /> 2. O sistema redireciona o ator para a seção de novo tópico no fórum <br /> 3. O ator não preenche um dos campos de "Título do fórum", "Categoria do fórum" ou "Descrição do tópico" <br /> 4. O ator clica no botão "Enviar tópico" <br /> 4. O sistema gera um pop-up alertando sobre a impossíbilidade de realizar a ação <br /> 5. O ator clica no botão "ok"</td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá ter um tópico publicado no fórum caso ele seja aprovado e o ator terá o tópico sugerido em seu histórico de tópicos no fórum</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>Requisito Funcional 10 do documento contendo todos os requisitos - RF10 Cadastrar tópico no fórum</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc04-configuracoes">UC04: Configurações</h3>
+<p><img alt="Configurações" src="../../assets/casos_de_uso/configuracoes.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/17oPxuo-j3WTpSUXm3ZAIWmdnAj13VY18/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC04</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário configurar o sistema</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar logado</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> Acessar a aba de configurações <br /> 1. O ator deve clicar no icone "☰", no canto superior esquerdo. <br /> 2. O ator deve selecionar a opção "⚙ configurações" na aba que foi aberta <br /> 3. O sistema exibe as opções de configurações disponíveis. <br /><br /> <strong>FP02:</strong> Alterar senha <br /> 1. O ator seleciona a opção "Alterar senha".<br /> 2. O ator preenche o primeiro campo com a senha atual. <br /> 3. O ator preenche o segundo campo com a nova senha. <br /><br /> <strong>FP03:</strong> Editar perfil <br /> 1. O ator seleciona a opção "Editar perfil".<br />2. O ator edita os campos referentes aos dados que deseja editar. <br /> 3. O ator clica no botão "Salvar". <br /><br /> <strong>FP04:</strong> Alterar tema<br /> 1. O ator pode clicar no botão de alternância para alternar entre o tema claro e o escuro.<br /> 2. O ator pode clicar no botão de alternância para alternar entre o tema atual e o padrão do sistema. <br /><br /> <strong>FP05:</strong> Visualizar termos de uso<br /> 1. O ator seleciona a opção "Termos de uso".<br /><br /><strong>FP06:</strong> Acessar o blog do aplicativo<br /> 1. O ator deve selecionar a opção "Blog do Promobit". <br /><br /> <strong>FP07:</strong> Entrar em contato com o suporte<br /> 1. O ator deve selecionar a opção "Contato". <br /> 2. O ator deve selecionar a forma que deseja usar para entrar em contato com a moderação do sistema. <br /><br /> <strong>FP08:</strong> Alterar preferências de notificação<br />1. O ator pode clicar no botão de alternância para desativar o envio de notificações sobre novas ofertas no celular.<br />2. O ator deve selecionar a opção "Notificações via e-mail.<br />3. O ator pode desativar as opções de notificações dos serviços disponíveis. <br /><br /> <strong>FP09:</strong> Desativar minha conta <br /> 1. O ator deve selecionar a opção "Desativar minha conta".<br /> 2. O ator deve confirmar seu desejo clicando em "sim". <br /> 3. O ator deve clicar no botão "Continuar".<br />4. O ator deve selecionar as opções que explicam o que o motivou a desativar a conta. <br /> 5. O ator deve clicar em "OK".<br /> 5. O ator deve deixar uma mensagem com algum recado ou dica para os moderadores em relação a como podem melhorar o sistema.<br /> 6. O ator deve clicar em "Enviar"</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> Acessar a aba de configurações <br /> 1. O ator deve clicar no icone " ☰ ", no canto superior esquerdo. <br /> 2. O ator deve clicar na sua foto de perfil. <br /> 3. O ator deve clicar no icone " ⁝ " no canto superior direito. <br /> 4. O sistema exibe as opções de configurações disponíveis. <br /><br /> <strong>FA02:</strong> Acessar o blog do aplicativo <br /> 1. O ator deve abrir o navegador de sua preferência.<br /> 2. O ator deve digitar a url: www.promobit.com.br/blog <br /><br /> <strong>FA03:</strong> Entrar em contato via e-mail <br /> 1. O ator deve abrir o serviço de e-mail de sua preferência.<br /> 2. O ator deve enviar a mensagem para o endereço de e-mail: ola@promobit.com.br <br /><br /> <strong>FA04:</strong> Entrar em contato pelo facebook <br /> 1. O ator deve abrir o navegador de sua preferência.<br /> 2. O ator deve digitar a url: www.facebook.com/promobit <br /><br /> <strong>FA05:</strong> Entrar em contato pelo instagram <br /> 1. O ator deve abrir o navegador de sua preferência.<br /> 2. O ator deve digitar a url: www.instagram.com/PromobitOficial <br /><br /> <strong>FA06:</strong> Entrar em contato pelo twitter <br /> 1. O ator deve abrir o navegador de sua preferência. <br /> 2. O ator deve digitar a url: www.twitter.com/PromobitOficial</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> Alterar senha <br /> 1. O ator digita uma senha incorreta no primeiro campo. <br /> 2. A nova senha não cumpre os requisitos de validação do sistema. <br /><br /> <strong>FE02:</strong> Problemas com acesso a internet <br /> 1. Nenhuma das funcionalidades podem ser acessadas sem conexão com a internet.</td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá personalizar as configurações do sistema</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>Requisito funcional 27 do documento contendo todos os requistos - RF27 Ativar modo escuro <br />Requisito funcional 32 do documento contendo todos os requistos - RF32 Desativar notificações <br /> Requisito funcional 35 do documento contendo todos os requistos - RF35 Desativar própria conta de usuário <br /> Requisito funcional 44 do documento contendo todos os requistos - RF44 O usuário poderá editar seu perfil <br /> Requisito funcional 46 do documento contendo todos os requistos - RF46 Alterar própria senha</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc05-pesquisar-oferta">UC05: Pesquisar oferta</h3>
+<p><img alt="Pesquisar oferta" src="../../assets/casos_de_uso/pesquisar_oferta.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1f86K51EvlZQsOZ11wir1Y0Vo_DeTyA4B/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC05</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário pesquisar uma oferta no sistema</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar logado, deve estar na seção de ofertas do sistema além de saber o que procura</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> O ator pesquisa uma oferta no sistema <br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma tabela de busca <br /> 3. O ator clica na caixa de pesquisa <br /> 4. O ator digita a oferta que procura <br /> 5. O ator seleciona a aba ofertas <br /> 6. O sistema lista as ofertas que correspondem à busca <br /></td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> Fluxo de quando o ator pesquisou recentemente um produto:<br /> 1. O ator clica no icone de 🔍 <br /> 2. O ator clica no nome do produto buscado recentemente <br /> 3. O ator seleciona a aba ofertas <br /> 4. O sistema lista as ofertas que correspondem à busca <br /> <br /> <strong>FA02:</strong> Fluxo de quando o ator prefere buscar um produto dentre os mais buscados:<br /> 1. O ator clica no icone de 🔍 <br /> 2. O ator clica no nome do produto listado na seção "Produtos mais buscados" <br /> 3. O ator seleciona a aba ofertas <br /> 4. O sistema lista as ofertas que correspondem à busca</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma tabela de busca <br /> 3. O ator clica na caixa de pesquisa <br /> 4. O ator digita a oferta que procura <br />  5. O ator seleciona a aba ofertas <br /> 6. O sistema não lista as ofertas que correspondem à busca</td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá ter encontrado uma oferta publicada e do produto desejado</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>Requisito Funcional 7 do documento contendo todos os requisitos - RF7 Pesquisar oferta</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc06-realizar-login">UC06: Realizar login</h3>
+<p><img alt="Interagir com a oferta" src="../../assets/casos_de_uso/realizar_login.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1xK3eFtSAQ0JsJxUecWqDM6C7zqdM3EcH/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC06</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário realizar login no sistema</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar com seu aparelho celular e conexão com a internet</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> Fluxo de login usando o Facebook:<br /> 1. O ator clica no ícone do Facebook <br /> 2. É redirecionado para realizar o login via Facebook <br /> 3. Informa seus dados e confirma <br /> <br /> <strong>FP02:</strong> Fluxo de login usando o Google:<br /> 1. O ator clica no ícone do Google <br /> 2. É redirecionado para realizar o login via Google <br /> 3. Informa seus dados e confirma <br /> <br /> <strong>FP03:</strong> Fluxo de login usando a conta promobit:<br /> 1. O ator clica no botão "ENTRAR" <br /> 2. O ator informa seus dados e confirma <br /></td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> Fluxo de login via conta promobit usário esqueceu a senha:<br /> 1. O ator clica no botão "ENTRAR" <br /> 2. Clica em "Entrar sem login" <br /> <br /> <strong>FA02:</strong> Fluxo de entrar sem login:<br /> 1. O ator clica no botão "ENTRAR" <br /> 2. Clica em "Entrar sem login"</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "ENTRAR" <br /> 2. O sistema exibe uma mensagem de erro <br /></td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá realizar qualquer outra funcionalidade do aplicativo</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>RF57</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc07-realizar-cadastro">UC07: Realizar cadastro</h3>
+<p><img alt="Interagir com a oferta" src="../../assets/casos_de_uso/realizar_cadastro.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1kEpW7oX9HvmqJWWXltc0gz1NV_U19nN4/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC07</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário realizar cadastro no sistema</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar com seu aparelho celular e conexão com a internet</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> Fluxo de cadastro usando o Facebook:<br /> 1. O ator clica no botão "Criar conta" <br /> 2. É redirecionado para realizar o cadastro <br /> 3. O ator clica no ícone do facebook <br /> 4. O ator é redirecionado para a página de login do facebook <br /> 5. O ator preenche os campos de login e senha <br /> 6. O ator clica no botão "Entrar" <br /> 7. O ator é redirecionado para a seção de oferta do promobit <br /><br /> <strong>FP02:</strong> Fluxo de cadastro usando o Google:<br /> 1. O ator clica no botão "Criar conta" <br /> 2. É redirecionado para realizar o cadastro <br /> 3. O ator clica no ícone do Google <br /> 4. O ator é redirecionado para a página de login do google <br /> 5. O ator preenche os campos de login e senha <br /> 6. O ator clica no botão "Próximo" <br /> 7. O ator é redirecionado para a seção de oferta do promobit <br /> <br /> <strong>FP03:</strong> Fluxo de login usando a conta promobit:<br /> 1. O ator clica no botão "Criar conta" <br /> 2. É redirecionado para realizar o cadastro <br /> 3. O ator preenche os campos de nome, login e senha <br /> 4. O ator clica no botão "Criar conta" <br /> 5. O ator é redirecionado para a seção de oferta do promobit</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td>-</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "Criar conta" <br /> 2. O sistema exibe uma mensagem de erro com o feedback de "Sem conexão" <br /> <br /> <strong>FE02:</strong> O ator já está cadastrado no sistema:<br /> 1. O ator clica em "Criar conta" <br /> 2. O sistema exibe uma mensagem informando que o usuário já tem seu e-mail cadastrado</td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá realizar login e terá acesso as funcionalidades do aplicativo</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>RF56</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc08-interagir-com-a-oferta">UC08: Interagir com a oferta</h3>
+<p><img alt="Interagir com a oferta" src="../../assets/casos_de_uso/interagir_oferta.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1XWnHprOZePclZ_quBIN3CBDGvQ3NfjtL/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC08</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário interagir com uma oferta no sistema</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar logado, deve estar visualiando uma oferta em específico</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> Ator interage com oferta<br /> 1. O ator clica no icone de 🔍 <br /> 2. O sistema expõe uma lista de opções <br /> 3. O ator seleciona uma opção que lhe apraz <br /></td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> Fluxo de quando o ator deseja curtir uma oferta:<br /> 1. O ator clica no icone de 👍 <br /> 2. O sistema altera a cor do botão <br /> <br /> <strong>FA02:</strong> Fluxo de quando o ator deseja comentar uma oferta:<br /> 1. O ator clica na caixa de "enviar comentário" <br /> 2. O ator digita o comentário desejado <br /> 3. O ator clica no ícone de enviar <br /> 4. O sistema informa se o comentário foi publicado <br /> <br /> <strong>FA03:</strong> Fluxo de quando o ator deseja compartilhar uma oferta:<br /> 1. O ator clica no ícone de "compartilhar" <br /> 2. O ator seleciona o meio de compartilhamento <br /> 3. O sistema altera para o sistema do meio escolhido, confirmando a execução</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica no icone de 👍 <br /> 2. O sistema exibe que é necessário fazer login <br /></td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá ter comentado, reportado, curtido e/ou compartilhado uma oferta publicada</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>Requisitos Funcionais 13, 20, 21, 23, 26 do documento contendo todos os requisitos - RF13 Compartilhar ofertas RF20 Curtir uma oferta, RF21 Descurtir oferta, RF23 Comentar uma oferta e RF26 Reportar uma oferta</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc09-lista-de-desejos">UC09: Lista de Desejos</h3>
+<p><img alt="Lista de Desejos" src="../../assets/casos_de_uso/lista_de_desejos.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1dFoeAz0b__JbdJj0JDYqF9dh7GZ-sWRw/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC09</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário criar uma lista de desejos</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar logado</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> Acessar a lista de Desejos <br /> 1. O ator clica no icone "☰" <br /> 2. O ator seleciona a opção "♥ Lista de Desejos"</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> Adicionar uma oferta à Lista de Desejos <br /> 1. O ator clica na aba "OFERTAS" <br /> 2. O ator digita o nome do produto que deseja adicionar. <br /> 3. O ator clica em "ADICIONAR". <br /> 4. O ator pode configurar as preferências referente ao produto clicando no ícone ⚙. <br /><br /> <strong>FA02:</strong> Adicionar um cupom à Lista de Desejos <br /> 1. O ator clica na aba "CUPONS". <br /> 2. O ator clica no campo de texto. <br /> 3. O ator seleciona a categoria de cupom que deseja adicionar.</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em "ADICIONAR" <br /> 2. O sistema exibe uma mensagem de erro <br /></td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá ter comentado, reportado, curtido e/ou compartilhado uma oferta publicada</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>Requisito Funcional 9 do documento contendo todos os requisitos - RF9 Criar uma lista de desejos</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc10-visualizar-topico-no-forum">UC10: Visualizar tópico no forum</h3>
+<p><img alt="Visualizar tópico no fórum" src="../../assets/casos_de_uso/visualizar_topico_forum.png" /></p>
+<p><a target="_blank" href="https://drive.google.com/file/d/1XwHe630SsWqpzY3KrwUvoC1N3MCDg164/view?usp=sharing">Link para o diagrama acima</a></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC10</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário visualizar um tópico específico dentro do fórum</td>
+</tr>
+<tr>
+<td align="center">Ator(es)</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O ator deve estar logado, e deve estar na seção de fórum do sistema.</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td><strong>FP01:</strong> Visualizar um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /></td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td><strong>FA01:</strong> O ator dá like em um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator seleciona o botão "Gostar" <br /> <br /><strong>FA02:</strong> O ator ativa notificações de um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator clica no botão "Notificações" <br /><br /> <strong>FA03:</strong> Ator faz um comentário em um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator clica no botão "Notificações" <br /> 4. O ator clica no botão "Responder" <br /> 5. O sistema leva o ator à caixa de texto para que ele possa adicionar sua resposta <br /> 6. O ator adiciona sua resposta <br /><br /> <strong>FA04:</strong> Ator reporta um comentário de um tópico no fórum <br /> 1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator rola até a aba de comentários <br /> 4. O ator clica no ícone "☰" abaixo do comentário que ele deseja reportar<br /> 5. O ator pressiona a opção "Reportar" <br /><br /> <strong>FA05:</strong> Ator dá like no comentário de um tópico do fórum <br />  1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator rola até a aba de comentários <br /> 4. O ator clica no botão "Gostar" abaixo do comentário que ele deseja dar like <br /><br /> <strong>FA06:</strong> Ator responde comentário em um tópico do fórum <br />  1. O ator seleciona um tópico que ele deseja visualizar <br /> 2. O sistema redireciona o ator para o tópico desejado <br /> 3. O ator rola até a aba de comentários <br /> 4. O ator clica no botão "Responder" abaixo do comentário que ele deseja responder <br /> 5. O ator digita o que deseja responder no campo de texto</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td><strong>FE01:</strong> Ocorre a perda de conexão durante o uso do aplicativo <br /> 1. O ator clica em um tópico no fórum <br /> 2. O sistema exibe uma mensagem de falha na conexão</td>
+</tr>
+<tr>
+<td align="center">Pós condições</td>
+<td>O ator poderá ter dado like, comentado e/ou ativado notificações de um tópico publicado no fórum</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>Requisito Funcional 11 do documento contendo todos os requisitos - RF11 Visualizar tópicos do fórum</td>
+</tr>
+</tbody>
+</table>
+<h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
+<blockquote>
+<p>Use Cases. usability.gov. Disponível em: https://www.usability.gov/how-to-and-tools/methods/use-cases.html. Acesso em: 15 de out. de 2020</p>
+</blockquote>
+<h2 id="versionamento">Versionamento</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Modificação</th>
+<th>Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>04/10/2020</td>
+<td>Criação da estrutura do documento de caso de uso</td>
+<td>Marcelo Victor</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>04/10/2020</td>
+<td>Adição do caso de uso de sugerir oferta</td>
+<td>Marcelo Victor</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>06/10/2020</td>
+<td>Correção tags HTML</td>
+<td>Igor Paiva</td>
+</tr>
+<tr>
+<td>3.0</td>
+<td>06/10/2020</td>
+<td>Adição do caso de uso de pesquisar oferta</td>
+<td>Rhuan Carlos</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>06/10/2020</td>
+<td>Correção geral no caso de uso pesquisar oferta</td>
+<td>Rhuan Carlos</td>
+</tr>
+<tr>
+<td>4.0</td>
+<td>06/10/2020</td>
+<td>Adição da tabela de caso de uso configurações</td>
+<td>Rhuan Carlos</td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>06/10/2020</td>
+<td>Adição caso de uso de sugerir cupom</td>
+<td>Igor Paiva</td>
+</tr>
+<tr>
+<td>5.0.1</td>
+<td>06/10/2020</td>
+<td>Correções leves</td>
+<td>Rhuan Carlos</td>
+</tr>
+<tr>
+<td>5.1.0</td>
+<td>06/10/2020</td>
+<td>Adição do diagrama de caso de uso 4</td>
+<td>Rhuan Carlos</td>
+</tr>
+<tr>
+<td>6.0.0</td>
+<td>06/10/2020</td>
+<td>Adição do caso de uso de sugerir tópico no fórum</td>
+<td>Thiago Lopes</td>
+</tr>
+<tr>
+<td>6.1.0</td>
+<td>06/10/2020</td>
+<td>Adição da tabela de caso de uso de sugerir oferta</td>
+<td>Marcelo Victor</td>
+</tr>
+<tr>
+<td>7.0.0</td>
+<td>06/10/2020</td>
+<td>Adição do caso de uso das configurações</td>
+<td>Thiago Guilherme</td>
+</tr>
+<tr>
+<td>8.0.0</td>
+<td>13/10/2020</td>
+<td>Adição do caso de uso de interagir com uma oferta</td>
+<td>Rhuan Carlos</td>
+</tr>
+<tr>
+<td>9.0.0</td>
+<td>14/10/2020</td>
+<td>Adição do caso de uso de realizar login</td>
+<td>Igor Paiva</td>
+</tr>
+<tr>
+<td>10.0.0</td>
+<td>14/10/2020</td>
+<td>Adição do caso de uso de criar Lista de Desejos</td>
+<td>Thiago Guilherme</td>
+</tr>
+<tr>
+<td>11.0.0</td>
+<td>14/10/2020</td>
+<td>Adição do caso de uso de realizar cadastro</td>
+<td>Marcelo Victor</td>
+</tr>
+<tr>
+<td>12.0.0</td>
+<td>16/10/2020</td>
+<td>Adição do caso de uso de visualizar tópico no fórum</td>
+<td>Thiago Lopes</td>
+</tr>
+<tr>
+<td>12.1.0</td>
+<td>16/10/2020</td>
+<td>Correções gerais</td>
+<td>Thiago Lopes</td>
+</tr>
+<tr>
+<td>12.2.0</td>
+<td>25/10/2020</td>
+<td>Correções nos casos de uso</td>
+<td>Todos os integrantes</td>
+</tr>
+</tbody>
+</table>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../../priorizacao/moscow/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                MoSCoW
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../cenarios/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Próximo
+                </span>
+                Cenários
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/vendor.0ac82a11.min.js"></script>
+      <script src="../../assets/javascripts/bundle.f81dfb4d.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../..",
+          features: [],
+          search: Object.assign({
+            worker: "../../assets/javascripts/worker/search.4ac00218.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
