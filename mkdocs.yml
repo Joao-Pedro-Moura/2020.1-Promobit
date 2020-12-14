@@ -1,0 +1,55 @@
+site_name: Promobit
+
+theme:
+  name: material
+  language: 'pt'
+  logo: 'assets/icons/monetization_on.png'
+
+extra_css:
+  - stylesheets/extra.css
+
+pages:
+  - Sobre: index.md
+  - Planejamento: planejamento.md
+  - Pré-rastreabilidade:
+      - Rich pictures: pre_rastreabilidade/rich_pictures.md
+  - Elicitação de requisitos:
+      - Personas: elicitacao/personas.md
+      - Introspecção: elicitacao/introspeccao.md
+      - Questionário: elicitacao/questionario.md
+      - Brainstorming: elicitacao/brainstorming.md
+      - Todos os requisitos: elicitacao/requisitos.md
+  - Priorização de requisitos:
+      - First Things First: priorizacao/first_thing_first.md
+      - MoSCoW: priorizacao/moscow.md
+  - Modelagem:
+      - Casos de uso: modelagem/caso_de_uso.md
+      - Cenários: modelagem/cenarios.md
+      - Léxico: modelagem/lexico.md
+      - Especificação suplementar: modelagem/suplementar.md
+      - NFR Framework: modelagem/nfr_framework.md
+      - Backlog do produto: modelagem/backlog_do_produto.md
+  - Análise:
+    - Verificação:
+        - Planejamento: analise/verificacao/planejamento.md
+        - Rich pictures: analise/verificacao/rich_picture.md
+        - Casos de Uso: analise/verificacao/caso_de_uso.md
+        - Cenários: analise/verificacao/cenario.md
+        - Léxicos: analise/verificacao/lexico.md
+        - NFR Framework: analise/verificacao/nfr_framework.md
+        - Backlog de Produto: analise/verificacao/backlog.md
+    - Validação:
+        - Informal: analise/validacao/informal.md
+        - Protótipo: analise/validacao/prototipo.md
+        - Viewpoint: analise/validacao/viewpoint.md
+  - Pós rastreabilidade:
+    - Matriz Forward-From: pos_rastreabilidade/foward_from.md
+    - Matriz Backward-From: pos_rastreabilidade/backward_from.md
+  - Apresentações: apresentacoes.md
+  # sempre a última
+  - Atas:
+      - 13/09/2020: atas/reuniao-13-09-2020.md
+      - 21/09/2020: atas/reuniao-21-09-2020.md
+      - 30/09/2020: atas/reuniao-30-09-2020.md
+      - 19/10/2020: atas/reuniao-19-10-2020.md
+      - 04/11/2020: atas/reuniao-04-11-2020.md
