@@ -31,7 +31,7 @@ Usaremos a tabela abaixo como molde para descrever os cenários.
 |**Atores**| Usuário |
 |**Planejamento**| O Ator entra no sistema, submete o link e algumas outras informações sobre a oferta. Precisa seguir a ordem certa para alcancar seu objetivo. Ele terá que preencher os campos necessários, erros de preenchimento de campo são possíveis e o ator será informado dos mesmos.|
 |**Ação**|  - Ator deseja sujerir oferta <br /> - Ator entra no sistema <br /> - Ator vai até a seção de sugerir oferta <br /> - Ator preenche todos os campos necessários <br /> - Ator envia sugestão de oferta |
-|**Evento**| **Eventos que disparam:** <br /> > Ganhar Medalhas <br /> **Eventos que são disparados:** <br /> > Avaliação da oferta pelo sistema |
+|**Evento**| **Eventos que disparam:** <br> > Ganhar Medalhas <br /> **Eventos que são disparados:** <br /> > Avaliação da oferta pelo sistema |
 |**Avaliação**| O sistema notifica o autor que sua sugestão foi realizada com sucesso |
 |**Rastreabilidade**| RF3 Sugerir oferta<br>RNF1 A oferta deverá ser segura|
 
